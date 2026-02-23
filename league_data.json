@@ -1,0 +1,1664 @@
+{
+  "generated_at": "2026-02-23",
+  "roto_standings": [
+    {
+      "team": "i used to be good",
+      "hitting_pts": 62.5,
+      "pitching_pts": 58.5,
+      "total_pts": 121.0
+    },
+    {
+      "team": " Always Betts on Black",
+      "hitting_pts": 55.0,
+      "pitching_pts": 44.0,
+      "total_pts": 99.0
+    },
+    {
+      "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+      "hitting_pts": 59.5,
+      "pitching_pts": 27.5,
+      "total_pts": 87.0
+    },
+    {
+      "team": "ALBIEEEES to be Patricia Marie",
+      "hitting_pts": 41.5,
+      "pitching_pts": 44.0,
+      "total_pts": 85.5
+    },
+    {
+      "team": "The Swan",
+      "hitting_pts": 47.0,
+      "pitching_pts": 38.0,
+      "total_pts": 85.0
+    },
+    {
+      "team": "Scrappy Ending",
+      "hitting_pts": 35.0,
+      "pitching_pts": 46.0,
+      "total_pts": 81.0
+    },
+    {
+      "team": "Nut Saks",
+      "hitting_pts": 49.5,
+      "pitching_pts": 31.0,
+      "total_pts": 80.5
+    },
+    {
+      "team": "Tiramatsui",
+      "hitting_pts": 22.0,
+      "pitching_pts": 54.5,
+      "total_pts": 76.5
+    },
+    {
+      "team": "This is a new low..... ",
+      "hitting_pts": 35.0,
+      "pitching_pts": 32.5,
+      "total_pts": 67.5
+    },
+    {
+      "team": "TrumpShidzHisDiapers",
+      "hitting_pts": 17.0,
+      "pitching_pts": 36.5,
+      "total_pts": 53.5
+    },
+    {
+      "team": "Try the Veal",
+      "hitting_pts": 11.0,
+      "pitching_pts": 41.0,
+      "total_pts": 52.0
+    },
+    {
+      "team": "Junior Canyonero",
+      "hitting_pts": 33.0,
+      "pitching_pts": 14.5,
+      "total_pts": 47.5
+    }
+  ],
+  "luck_table": [
+    {
+      "team": " Always Betts on Black",
+      "actual_wins": 138,
+      "actual_losses": 82,
+      "actual_pct": 0.627,
+      "universal_wins": 1313,
+      "universal_losses": 1036,
+      "universal_pct": 0.559,
+      "luck": 0.068
+    },
+    {
+      "team": "i used to be good",
+      "actual_wins": 139,
+      "actual_losses": 75,
+      "actual_pct": 0.65,
+      "universal_wins": 1417,
+      "universal_losses": 950,
+      "universal_pct": 0.599,
+      "luck": 0.051
+    },
+    {
+      "team": "Tiramatsui",
+      "actual_wins": 118,
+      "actual_losses": 99,
+      "actual_pct": 0.544,
+      "universal_wins": 1184,
+      "universal_losses": 1182,
+      "universal_pct": 0.5,
+      "luck": 0.043
+    },
+    {
+      "team": "TrumpShidzHisDiapers",
+      "actual_wins": 101,
+      "actual_losses": 116,
+      "actual_pct": 0.465,
+      "universal_wins": 997,
+      "universal_losses": 1350,
+      "universal_pct": 0.425,
+      "luck": 0.041
+    },
+    {
+      "team": "ALBIEEEES to be Patricia Marie",
+      "actual_wins": 106,
+      "actual_losses": 104,
+      "actual_pct": 0.505,
+      "universal_wins": 1171,
+      "universal_losses": 1177,
+      "universal_pct": 0.499,
+      "luck": 0.006
+    },
+    {
+      "team": "Try the Veal",
+      "actual_wins": 85,
+      "actual_losses": 129,
+      "actual_pct": 0.397,
+      "universal_wins": 928,
+      "universal_losses": 1421,
+      "universal_pct": 0.395,
+      "luck": 0.002
+    },
+    {
+      "team": "Junior Canyonero",
+      "actual_wins": 94,
+      "actual_losses": 119,
+      "actual_pct": 0.441,
+      "universal_wins": 1042,
+      "universal_losses": 1297,
+      "universal_pct": 0.445,
+      "luck": -0.004
+    },
+    {
+      "team": "This is a new low..... ",
+      "actual_wins": 101,
+      "actual_losses": 114,
+      "actual_pct": 0.47,
+      "universal_wins": 1156,
+      "universal_losses": 1187,
+      "universal_pct": 0.493,
+      "luck": -0.024
+    },
+    {
+      "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+      "actual_wins": 109,
+      "actual_losses": 107,
+      "actual_pct": 0.505,
+      "universal_wins": 1261,
+      "universal_losses": 1095,
+      "universal_pct": 0.535,
+      "luck": -0.031
+    },
+    {
+      "team": "Nut Saks",
+      "actual_wins": 99,
+      "actual_losses": 111,
+      "actual_pct": 0.471,
+      "universal_wins": 1195,
+      "universal_losses": 1144,
+      "universal_pct": 0.511,
+      "luck": -0.039
+    },
+    {
+      "team": "Scrappy Ending",
+      "actual_wins": 101,
+      "actual_losses": 109,
+      "actual_pct": 0.481,
+      "universal_wins": 1220,
+      "universal_losses": 1119,
+      "universal_pct": 0.522,
+      "luck": -0.041
+    },
+    {
+      "team": "The Swan",
+      "actual_wins": 93,
+      "actual_losses": 119,
+      "actual_pct": 0.439,
+      "universal_wins": 1201,
+      "universal_losses": 1127,
+      "universal_pct": 0.516,
+      "luck": -0.077
+    }
+  ],
+  "weekly_roto": [
+    {
+      "week": 1,
+      "standings": [
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 51.5,
+          "pitching_pts": 62.5,
+          "total_pts": 114.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 53.5,
+          "pitching_pts": 40.5,
+          "total_pts": 94.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 49.5,
+          "pitching_pts": 38.5,
+          "total_pts": 88.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 54.5,
+          "pitching_pts": 24.0,
+          "total_pts": 78.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 52.5,
+          "pitching_pts": 24.5,
+          "total_pts": 77.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 23.0,
+          "pitching_pts": 53.0,
+          "total_pts": 76.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 46.5,
+          "pitching_pts": 29.0,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 20.0,
+          "pitching_pts": 53.5,
+          "total_pts": 73.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 39.0,
+          "pitching_pts": 34.0,
+          "total_pts": 73.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 41.0,
+          "pitching_pts": 30.0,
+          "total_pts": 71.0
+        },
+        {
+          "team": "i used to be good",
+          "hitting_pts": 23.5,
+          "pitching_pts": 44.5,
+          "total_pts": 68.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 13.5,
+          "pitching_pts": 34.0,
+          "total_pts": 47.5
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 56.0,
+          "pitching_pts": 55.5,
+          "total_pts": 111.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 51.0,
+          "pitching_pts": 53.5,
+          "total_pts": 104.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 43.5,
+          "pitching_pts": 61.0,
+          "total_pts": 104.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 61.0,
+          "pitching_pts": 34.0,
+          "total_pts": 95.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 60.5,
+          "pitching_pts": 29.0,
+          "total_pts": 89.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 40.5,
+          "pitching_pts": 39.5,
+          "total_pts": 80.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 17.0,
+          "pitching_pts": 53.0,
+          "total_pts": 70.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 38.5,
+          "pitching_pts": 29.5,
+          "total_pts": 68.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 13.0,
+          "pitching_pts": 46.0,
+          "total_pts": 59.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 40.0,
+          "pitching_pts": 16.5,
+          "total_pts": 56.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 35.0,
+          "pitching_pts": 17.0,
+          "total_pts": 52.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 12.0,
+          "pitching_pts": 33.5,
+          "total_pts": 45.5
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 62.0,
+          "pitching_pts": 62.5,
+          "total_pts": 124.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 55.0,
+          "pitching_pts": 58.5,
+          "total_pts": 113.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 57.0,
+          "pitching_pts": 32.0,
+          "total_pts": 89.0
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 40.0,
+          "pitching_pts": 47.5,
+          "total_pts": 87.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 55.5,
+          "pitching_pts": 32.0,
+          "total_pts": 87.5
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 16.5,
+          "pitching_pts": 55.5,
+          "total_pts": 72.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 40.0,
+          "pitching_pts": 28.5,
+          "total_pts": 68.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 42.0,
+          "pitching_pts": 21.5,
+          "total_pts": 63.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 44.0,
+          "pitching_pts": 17.5,
+          "total_pts": 61.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 30.5,
+          "pitching_pts": 29.5,
+          "total_pts": 60.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 10.0,
+          "pitching_pts": 46.0,
+          "total_pts": 56.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 15.5,
+          "pitching_pts": 37.0,
+          "total_pts": 52.5
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 58.0,
+          "pitching_pts": 58.5,
+          "total_pts": 116.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 53.0,
+          "pitching_pts": 59.0,
+          "total_pts": 112.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 49.0,
+          "pitching_pts": 40.0,
+          "total_pts": 89.0
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 43.5,
+          "pitching_pts": 45.0,
+          "total_pts": 88.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 44.5,
+          "pitching_pts": 40.0,
+          "total_pts": 84.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 51.5,
+          "pitching_pts": 25.5,
+          "total_pts": 77.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 16.5,
+          "pitching_pts": 57.5,
+          "total_pts": 74.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 30.5,
+          "pitching_pts": 36.5,
+          "total_pts": 67.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 46.5,
+          "pitching_pts": 18.0,
+          "total_pts": 64.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 47.0,
+          "pitching_pts": 12.0,
+          "total_pts": 59.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 22.0,
+          "pitching_pts": 32.5,
+          "total_pts": 54.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 6.0,
+          "pitching_pts": 43.5,
+          "total_pts": 49.5
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 65.0,
+          "pitching_pts": 62.0,
+          "total_pts": 127.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 49.0,
+          "pitching_pts": 62.0,
+          "total_pts": 111.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 49.0,
+          "pitching_pts": 41.0,
+          "total_pts": 90.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 52.5,
+          "pitching_pts": 35.5,
+          "total_pts": 88.0
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 43.5,
+          "pitching_pts": 44.0,
+          "total_pts": 87.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 48.0,
+          "pitching_pts": 29.0,
+          "total_pts": 77.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 51.0,
+          "pitching_pts": 19.0,
+          "total_pts": 70.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 17.0,
+          "pitching_pts": 50.0,
+          "total_pts": 67.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 42.0,
+          "pitching_pts": 23.0,
+          "total_pts": 65.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 6.0,
+          "pitching_pts": 50.0,
+          "total_pts": 56.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 26.0,
+          "pitching_pts": 24.0,
+          "total_pts": 50.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 19.0,
+          "pitching_pts": 28.5,
+          "total_pts": 47.5
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 64.0,
+          "pitching_pts": 63.5,
+          "total_pts": 127.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 51.5,
+          "pitching_pts": 53.0,
+          "total_pts": 104.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 61.0,
+          "pitching_pts": 34.5,
+          "total_pts": 95.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 49.5,
+          "pitching_pts": 38.0,
+          "total_pts": 87.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 49.0,
+          "pitching_pts": 33.5,
+          "total_pts": 82.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 37.0,
+          "pitching_pts": 40.5,
+          "total_pts": 77.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 8.5,
+          "pitching_pts": 59.5,
+          "total_pts": 68.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 17.0,
+          "pitching_pts": 49.5,
+          "total_pts": 66.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 49.0,
+          "pitching_pts": 15.5,
+          "total_pts": 64.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 32.0,
+          "pitching_pts": 25.5,
+          "total_pts": 57.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 32.5,
+          "pitching_pts": 24.0,
+          "total_pts": 56.5
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 17.0,
+          "pitching_pts": 31.0,
+          "total_pts": 48.0
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 65.5,
+          "pitching_pts": 66.0,
+          "total_pts": 131.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 53.0,
+          "pitching_pts": 53.0,
+          "total_pts": 106.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 57.0,
+          "pitching_pts": 44.5,
+          "total_pts": 101.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 50.5,
+          "pitching_pts": 44.0,
+          "total_pts": 94.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 51.5,
+          "pitching_pts": 32.0,
+          "total_pts": 83.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 33.0,
+          "pitching_pts": 35.0,
+          "total_pts": 68.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 15.5,
+          "pitching_pts": 51.5,
+          "total_pts": 67.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 35.0,
+          "pitching_pts": 26.5,
+          "total_pts": 61.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 39.5,
+          "pitching_pts": 21.0,
+          "total_pts": 60.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 8.5,
+          "pitching_pts": 46.0,
+          "total_pts": 54.5
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 20.5,
+          "pitching_pts": 33.5,
+          "total_pts": 54.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 38.5,
+          "pitching_pts": 15.0,
+          "total_pts": 53.5
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 67.0,
+          "pitching_pts": 66.0,
+          "total_pts": 133.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 60.0,
+          "pitching_pts": 45.0,
+          "total_pts": 105.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 48.5,
+          "pitching_pts": 48.0,
+          "total_pts": 96.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 46.5,
+          "pitching_pts": 43.0,
+          "total_pts": 89.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 53.0,
+          "pitching_pts": 33.5,
+          "total_pts": 86.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 35.5,
+          "pitching_pts": 41.0,
+          "total_pts": 76.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 36.0,
+          "pitching_pts": 36.0,
+          "total_pts": 72.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 46.0,
+          "pitching_pts": 17.0,
+          "total_pts": 63.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 22.5,
+          "pitching_pts": 33.0,
+          "total_pts": 55.5
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 13.5,
+          "pitching_pts": 41.0,
+          "total_pts": 54.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 32.0,
+          "pitching_pts": 20.0,
+          "total_pts": 52.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 7.5,
+          "pitching_pts": 44.5,
+          "total_pts": 52.0
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 67.5,
+          "pitching_pts": 64.0,
+          "total_pts": 131.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 56.0,
+          "pitching_pts": 42.0,
+          "total_pts": 98.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 44.5,
+          "pitching_pts": 48.0,
+          "total_pts": 92.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 43.0,
+          "pitching_pts": 49.5,
+          "total_pts": 92.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 55.0,
+          "pitching_pts": 30.5,
+          "total_pts": 85.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 39.0,
+          "pitching_pts": 37.5,
+          "total_pts": 76.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 39.5,
+          "pitching_pts": 31.5,
+          "total_pts": 71.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 44.5,
+          "pitching_pts": 19.5,
+          "total_pts": 64.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 7.0,
+          "pitching_pts": 55.5,
+          "total_pts": 62.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 34.0,
+          "pitching_pts": 25.0,
+          "total_pts": 59.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 24.0,
+          "pitching_pts": 30.0,
+          "total_pts": 54.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 14.0,
+          "pitching_pts": 35.0,
+          "total_pts": 49.0
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 69.5,
+          "pitching_pts": 65.0,
+          "total_pts": 134.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 56.0,
+          "pitching_pts": 41.0,
+          "total_pts": 97.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 55.0,
+          "pitching_pts": 35.5,
+          "total_pts": 90.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 45.0,
+          "pitching_pts": 44.5,
+          "total_pts": 89.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 42.0,
+          "pitching_pts": 47.0,
+          "total_pts": 89.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 48.0,
+          "pitching_pts": 25.5,
+          "total_pts": 73.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 36.5,
+          "pitching_pts": 33.5,
+          "total_pts": 70.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 9.0,
+          "pitching_pts": 56.5,
+          "total_pts": 65.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 36.0,
+          "pitching_pts": 27.5,
+          "total_pts": 63.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 37.0,
+          "pitching_pts": 26.5,
+          "total_pts": 63.5
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 19.0,
+          "pitching_pts": 31.0,
+          "total_pts": 50.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 15.0,
+          "pitching_pts": 34.5,
+          "total_pts": 49.5
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 65.0,
+          "pitching_pts": 67.0,
+          "total_pts": 132.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 49.0,
+          "pitching_pts": 50.0,
+          "total_pts": 99.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 50.5,
+          "pitching_pts": 44.0,
+          "total_pts": 94.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 59.0,
+          "pitching_pts": 34.5,
+          "total_pts": 93.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 47.5,
+          "pitching_pts": 39.5,
+          "total_pts": 87.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 46.0,
+          "pitching_pts": 26.5,
+          "total_pts": 72.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 10.0,
+          "pitching_pts": 57.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 35.0,
+          "pitching_pts": 31.5,
+          "total_pts": 66.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 39.0,
+          "pitching_pts": 26.5,
+          "total_pts": 65.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 34.5,
+          "pitching_pts": 29.5,
+          "total_pts": 64.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 15.0,
+          "pitching_pts": 33.0,
+          "total_pts": 48.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 17.5,
+          "pitching_pts": 28.5,
+          "total_pts": 46.0
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 65.0,
+          "pitching_pts": 67.0,
+          "total_pts": 132.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 45.5,
+          "pitching_pts": 54.5,
+          "total_pts": 100.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 60.0,
+          "pitching_pts": 35.0,
+          "total_pts": 95.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 50.5,
+          "pitching_pts": 42.0,
+          "total_pts": 92.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 44.0,
+          "pitching_pts": 46.0,
+          "total_pts": 90.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 45.0,
+          "pitching_pts": 27.5,
+          "total_pts": 72.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 42.0,
+          "pitching_pts": 27.5,
+          "total_pts": 69.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 12.0,
+          "pitching_pts": 53.0,
+          "total_pts": 65.0
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 35.5,
+          "pitching_pts": 29.5,
+          "total_pts": 65.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 36.0,
+          "pitching_pts": 26.0,
+          "total_pts": 62.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 17.5,
+          "pitching_pts": 31.5,
+          "total_pts": 49.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 15.0,
+          "pitching_pts": 28.5,
+          "total_pts": 43.5
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 66.0,
+          "pitching_pts": 66.0,
+          "total_pts": 132.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 60.0,
+          "pitching_pts": 37.5,
+          "total_pts": 97.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 43.0,
+          "pitching_pts": 51.5,
+          "total_pts": 94.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 41.5,
+          "pitching_pts": 51.0,
+          "total_pts": 92.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 50.5,
+          "pitching_pts": 38.0,
+          "total_pts": 88.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 48.0,
+          "pitching_pts": 30.0,
+          "total_pts": 78.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 46.5,
+          "pitching_pts": 30.0,
+          "total_pts": 76.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 15.0,
+          "pitching_pts": 49.0,
+          "total_pts": 64.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 33.0,
+          "pitching_pts": 30.5,
+          "total_pts": 63.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 28.0,
+          "pitching_pts": 25.0,
+          "total_pts": 53.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 20.5,
+          "pitching_pts": 30.5,
+          "total_pts": 51.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 16.0,
+          "pitching_pts": 29.0,
+          "total_pts": 45.0
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 69.0,
+          "pitching_pts": 63.5,
+          "total_pts": 132.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 47.0,
+          "pitching_pts": 51.0,
+          "total_pts": 98.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 39.0,
+          "pitching_pts": 56.0,
+          "total_pts": 95.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 55.0,
+          "pitching_pts": 40.0,
+          "total_pts": 95.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 52.0,
+          "pitching_pts": 39.0,
+          "total_pts": 91.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 53.0,
+          "pitching_pts": 22.0,
+          "total_pts": 75.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 16.0,
+          "pitching_pts": 55.0,
+          "total_pts": 71.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 30.0,
+          "pitching_pts": 29.0,
+          "total_pts": 59.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 22.0,
+          "pitching_pts": 32.0,
+          "total_pts": 54.0
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 27.0,
+          "pitching_pts": 22.0,
+          "total_pts": 49.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 15.0,
+          "pitching_pts": 26.0,
+          "total_pts": 41.0
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 70.0,
+          "pitching_pts": 62.5,
+          "total_pts": 132.5
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 55.0,
+          "pitching_pts": 45.0,
+          "total_pts": 100.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 37.5,
+          "pitching_pts": 57.5,
+          "total_pts": 95.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 54.0,
+          "pitching_pts": 33.5,
+          "total_pts": 87.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 47.5,
+          "pitching_pts": 38.0,
+          "total_pts": 85.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 22.5,
+          "pitching_pts": 57.5,
+          "total_pts": 80.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 51.0,
+          "pitching_pts": 27.5,
+          "total_pts": 78.5
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 44.0,
+          "pitching_pts": 33.0,
+          "total_pts": 77.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 21.0,
+          "pitching_pts": 33.5,
+          "total_pts": 54.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 25.0,
+          "pitching_pts": 27.0,
+          "total_pts": 52.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 25.5,
+          "pitching_pts": 26.0,
+          "total_pts": 51.5
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 15.0,
+          "pitching_pts": 27.0,
+          "total_pts": 42.0
+        }
+      ]
+    },
+    {
+      "week": 16,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 64.5,
+          "pitching_pts": 61.0,
+          "total_pts": 125.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 56.0,
+          "pitching_pts": 42.0,
+          "total_pts": 98.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 53.0,
+          "pitching_pts": 41.0,
+          "total_pts": 94.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 36.0,
+          "pitching_pts": 53.5,
+          "total_pts": 89.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 47.0,
+          "pitching_pts": 35.5,
+          "total_pts": 82.5
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 55.0,
+          "pitching_pts": 27.0,
+          "total_pts": 82.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 22.5,
+          "pitching_pts": 58.5,
+          "total_pts": 81.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 43.0,
+          "pitching_pts": 33.5,
+          "total_pts": 76.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 33.5,
+          "pitching_pts": 27.0,
+          "total_pts": 60.5
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 19.5,
+          "pitching_pts": 37.0,
+          "total_pts": 56.5
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 12.0,
+          "pitching_pts": 35.5,
+          "total_pts": 47.5
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 26.0,
+          "pitching_pts": 16.5,
+          "total_pts": 42.5
+        }
+      ]
+    },
+    {
+      "week": 17,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 64.0,
+          "pitching_pts": 62.0,
+          "total_pts": 126.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 56.0,
+          "pitching_pts": 42.0,
+          "total_pts": 98.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 53.0,
+          "pitching_pts": 41.0,
+          "total_pts": 94.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 57.0,
+          "pitching_pts": 30.0,
+          "total_pts": 87.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 35.0,
+          "pitching_pts": 50.5,
+          "total_pts": 85.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 23.0,
+          "pitching_pts": 61.0,
+          "total_pts": 84.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 46.0,
+          "pitching_pts": 35.0,
+          "total_pts": 81.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 41.5,
+          "pitching_pts": 32.5,
+          "total_pts": 74.0
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 35.0,
+          "pitching_pts": 24.0,
+          "total_pts": 59.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 19.0,
+          "pitching_pts": 32.0,
+          "total_pts": 51.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 11.0,
+          "pitching_pts": 38.0,
+          "total_pts": 49.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 27.5,
+          "pitching_pts": 20.0,
+          "total_pts": 47.5
+        }
+      ]
+    },
+    {
+      "week": 18,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 62.0,
+          "pitching_pts": 59.5,
+          "total_pts": 121.5
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 57.0,
+          "pitching_pts": 44.0,
+          "total_pts": 101.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 53.0,
+          "pitching_pts": 37.0,
+          "total_pts": 90.0
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 24.5,
+          "pitching_pts": 59.5,
+          "total_pts": 84.0
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 47.5,
+          "pitching_pts": 36.5,
+          "total_pts": 84.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 55.0,
+          "pitching_pts": 27.0,
+          "total_pts": 82.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 41.5,
+          "pitching_pts": 39.5,
+          "total_pts": 81.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 31.5,
+          "pitching_pts": 48.0,
+          "total_pts": 79.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 35.5,
+          "pitching_pts": 26.5,
+          "total_pts": 62.0
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 19.5,
+          "pitching_pts": 32.5,
+          "total_pts": 52.0
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 11.0,
+          "pitching_pts": 40.0,
+          "total_pts": 51.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 30.0,
+          "pitching_pts": 18.0,
+          "total_pts": 48.0
+        }
+      ]
+    },
+    {
+      "week": 19,
+      "standings": [
+        {
+          "team": "i used to be good",
+          "hitting_pts": 62.5,
+          "pitching_pts": 58.5,
+          "total_pts": 121.0
+        },
+        {
+          "team": " Always Betts on Black",
+          "hitting_pts": 55.0,
+          "pitching_pts": 44.0,
+          "total_pts": 99.0
+        },
+        {
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS",
+          "hitting_pts": 59.5,
+          "pitching_pts": 27.5,
+          "total_pts": 87.0
+        },
+        {
+          "team": "ALBIEEEES to be Patricia Marie",
+          "hitting_pts": 41.5,
+          "pitching_pts": 44.0,
+          "total_pts": 85.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 47.0,
+          "pitching_pts": 38.0,
+          "total_pts": 85.0
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 35.0,
+          "pitching_pts": 46.0,
+          "total_pts": 81.0
+        },
+        {
+          "team": "Nut Saks",
+          "hitting_pts": 49.5,
+          "pitching_pts": 31.0,
+          "total_pts": 80.5
+        },
+        {
+          "team": "Tiramatsui",
+          "hitting_pts": 22.0,
+          "pitching_pts": 54.5,
+          "total_pts": 76.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 35.0,
+          "pitching_pts": 32.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "TrumpShidzHisDiapers",
+          "hitting_pts": 17.0,
+          "pitching_pts": 36.5,
+          "total_pts": 53.5
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 11.0,
+          "pitching_pts": 41.0,
+          "total_pts": 52.0
+        },
+        {
+          "team": "Junior Canyonero",
+          "hitting_pts": 33.0,
+          "pitching_pts": 14.5,
+          "total_pts": 47.5
+        }
+      ]
+    }
+  ]
+}

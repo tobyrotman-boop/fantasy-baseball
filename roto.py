@@ -5,8 +5,10 @@ from datetime import date
 # Your league credentials
 LEAGUE_ID = 4080
 YEAR = 2025
-ESPN_S2 = "AEBLtSnyQ1nrcjPtcW+i9HCeoKtko0oaKEVutWzgmbFH3xvd1MG2Ev7/31UvBmJNxUXRyCFRGA4rS/hfVFgxPnkYmozGjxX/RfV8VepheMJQa1rS1MAfW2ifECTVB6adfqR6NIUzge9wO+5o6vGl0YGCx+dmpi/6DxEUP+EcykGMQvrNhp4K9LTxB9cg4iikK+PKLYeQsaC3qDgz9ACOBqYiY831kTbtWtwDj2oWexfMdb2VbxOkoRPT1PptXW7Wi+whDXWunNj/8qKrC7Nvbvy0"
-SWID = "{27E33A0F-8C90-11D3-8208-00A0C9E58E2D}"
+
+import os
+ESPN_S2 = os.environ.get("ESPN_S2")
+SWID = os.environ.get("SWID")
 
 league = League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
 

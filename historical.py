@@ -14,6 +14,7 @@ COUNTING_CATS = ['HR', 'RBI', 'SB', 'R', 'K', 'W', 'QS', 'SV']
 RATIO_CATS = ['ERA', 'WHIP']
 ALL_SCORE_CATS = COUNTING_CATS + RATIO_CATS
 LOWER_IS_BETTER = {'ERA', 'WHIP'}
+EXCLUDED_OWNERS = {"Bradd Caplan", "Josh Lessner"}
 
 def get_owner_key(team):
     for owner in team.owners:
@@ -95,7 +96,7 @@ for year in range(2019, 2026):
                     owner = get_owner_key(team)
                     ensure_owner(owner)
                     raw = get_raw_stats(stats_dict)
-
+		    
                     # Accumulate season totals
                     for k in season_raw[owner]:
                         season_raw[owner][k] += raw[k]
@@ -153,7 +154,7 @@ for year in range(2019, 2026):
 
 output = {
     'generated_at': str(date.today()),
-    'owners': list(owners.values())
+    'owners': [o for o in owners.values() if o['name'] not in EXCLUDED_OWNERS]
 }
 
 with open('historical.json', 'w') as f:

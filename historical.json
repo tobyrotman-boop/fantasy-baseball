@@ -1,0 +1,2625 @@
+{
+  "generated_at": "2026-02-24",
+  "owners": [
+    {
+      "name": "Jason Smulson",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 312.0,
+            "RBI": 875.0,
+            "SB": 90.0,
+            "R": 881.0,
+            "K": 1207.0,
+            "W": 70.0,
+            "QS": 84.0,
+            "SV": 53.0,
+            "ERA": 4.149,
+            "WHIP": 1.227
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 225.0,
+            "RBI": 707.0,
+            "SB": 122.0,
+            "R": 745.0,
+            "K": 1477.0,
+            "W": 83.0,
+            "QS": 101.0,
+            "SV": 37.0,
+            "ERA": 3.348,
+            "WHIP": 1.078
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 192.0,
+            "RBI": 763.0,
+            "SB": 98.0,
+            "R": 754.0,
+            "K": 1337.0,
+            "W": 78.0,
+            "QS": 104.0,
+            "SV": 30.0,
+            "ERA": 4.161,
+            "WHIP": 1.236
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 227.0,
+            "RBI": 825.0,
+            "SB": 206.0,
+            "R": 807.0,
+            "K": 1388.0,
+            "W": 84.0,
+            "QS": 95.0,
+            "SV": 77.0,
+            "ERA": 3.959,
+            "WHIP": 1.207
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 198.0,
+            "RBI": 660.0,
+            "SB": 100.0,
+            "R": 728.0,
+            "K": 1236.0,
+            "W": 86.0,
+            "QS": 81.0,
+            "SV": 81.0,
+            "ERA": 4.038,
+            "WHIP": 1.226
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 249.0,
+            "RBI": 702.0,
+            "SB": 159.0,
+            "R": 775.0,
+            "K": 1129.0,
+            "W": 73.0,
+            "QS": 79.0,
+            "SV": 31.0,
+            "ERA": 4.082,
+            "WHIP": 1.31
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 25.0,
+          "year": 2019,
+          "week": 2,
+          "team": "Rusty Kuntz"
+        },
+        "RBI": {
+          "value": 78.0,
+          "year": 2022,
+          "week": 1,
+          "team": "Feel The Burnes"
+        },
+        "SB": {
+          "value": 18.0,
+          "year": 2023,
+          "week": 8,
+          "team": "Burnes When I Pee"
+        },
+        "R": {
+          "value": 74.0,
+          "year": 2023,
+          "week": 1,
+          "team": "Burnes When I Pee"
+        },
+        "K": {
+          "value": 111.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Rusty Kuntz"
+        },
+        "W": {
+          "value": 8.0,
+          "year": 2019,
+          "week": 13,
+          "team": "Rusty Kuntz"
+        },
+        "QS": {
+          "value": 9.0,
+          "year": 2022,
+          "week": 3,
+          "team": "Feel The Burnes"
+        },
+        "SV": {
+          "value": 8.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Burnes When I Pee"
+        },
+        "ERA": {
+          "value": 1.381,
+          "year": 2024,
+          "week": 8,
+          "team": "Acunalingus"
+        },
+        "WHIP": {
+          "value": 0.708,
+          "year": 2021,
+          "week": 7,
+          "team": "MASSIVE TATIS"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 312.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 875.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 206.0,
+          "year": 2023
+        },
+        "R": {
+          "value": 881.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1477.0,
+          "year": 2021
+        },
+        "W": {
+          "value": 86.0,
+          "year": 2024
+        },
+        "QS": {
+          "value": 104.0,
+          "year": 2022
+        },
+        "SV": {
+          "value": 81.0,
+          "year": 2024
+        },
+        "ERA": {
+          "value": 3.348,
+          "year": 2021
+        },
+        "WHIP": {
+          "value": 1.078,
+          "year": 2021
+        }
+      }
+    },
+    {
+      "name": "Jared Block",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 278.0,
+            "RBI": 852.0,
+            "SB": 72.0,
+            "R": 920.0,
+            "K": 1318.0,
+            "W": 79.0,
+            "QS": 95.0,
+            "SV": 68.0,
+            "ERA": 4.415,
+            "WHIP": 1.29
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 203.0,
+            "RBI": 735.0,
+            "SB": 65.0,
+            "R": 815.0,
+            "K": 1247.0,
+            "W": 68.0,
+            "QS": 68.0,
+            "SV": 75.0,
+            "ERA": 4.019,
+            "WHIP": 1.153
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 186.0,
+            "RBI": 702.0,
+            "SB": 85.0,
+            "R": 748.0,
+            "K": 1091.0,
+            "W": 70.0,
+            "QS": 82.0,
+            "SV": 69.0,
+            "ERA": 3.9,
+            "WHIP": 1.19
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 194.0,
+            "RBI": 760.0,
+            "SB": 134.0,
+            "R": 833.0,
+            "K": 1285.0,
+            "W": 74.0,
+            "QS": 89.0,
+            "SV": 30.0,
+            "ERA": 4.382,
+            "WHIP": 1.297
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 211.0,
+            "RBI": 725.0,
+            "SB": 102.0,
+            "R": 785.0,
+            "K": 1138.0,
+            "W": 79.0,
+            "QS": 70.0,
+            "SV": 71.0,
+            "ERA": 4.133,
+            "WHIP": 1.28
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 218.0,
+            "RBI": 741.0,
+            "SB": 91.0,
+            "R": 762.0,
+            "K": 1219.0,
+            "W": 82.0,
+            "QS": 95.0,
+            "SV": 71.0,
+            "ERA": 3.514,
+            "WHIP": 1.118
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 28.0,
+          "year": 2019,
+          "week": 14,
+          "team": "Personal DeJesus"
+        },
+        "RBI": {
+          "value": 74.0,
+          "year": 2019,
+          "week": 14,
+          "team": "Personal DeJesus"
+        },
+        "SB": {
+          "value": 13.0,
+          "year": 2023,
+          "week": 17,
+          "team": "Royal Frush "
+        },
+        "R": {
+          "value": 73.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Royal Frush "
+        },
+        "K": {
+          "value": 113.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Personal DeJesus"
+        },
+        "W": {
+          "value": 10.0,
+          "year": 2021,
+          "week": 11,
+          "team": "Personal DeJesus"
+        },
+        "QS": {
+          "value": 10.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Personal DeJesus"
+        },
+        "SV": {
+          "value": 8.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Personal DeJesus"
+        },
+        "ERA": {
+          "value": 1.696,
+          "year": 2021,
+          "week": 7,
+          "team": "Personal DeJesus"
+        },
+        "WHIP": {
+          "value": 0.859,
+          "year": 2025,
+          "week": 14,
+          "team": "Tiramatsui"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 278.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 852.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 134.0,
+          "year": 2023
+        },
+        "R": {
+          "value": 920.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1318.0,
+          "year": 2019
+        },
+        "W": {
+          "value": 82.0,
+          "year": 2025
+        },
+        "QS": {
+          "value": 95.0,
+          "year": 2019
+        },
+        "SV": {
+          "value": 75.0,
+          "year": 2021
+        },
+        "ERA": {
+          "value": 3.514,
+          "year": 2025
+        },
+        "WHIP": {
+          "value": 1.118,
+          "year": 2025
+        }
+      }
+    },
+    {
+      "name": "Mike Kurman",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 256.0,
+            "RBI": 821.0,
+            "SB": 80.0,
+            "R": 813.0,
+            "K": 791.0,
+            "W": 40.0,
+            "QS": 46.0,
+            "SV": 31.0,
+            "ERA": 4.554,
+            "WHIP": 1.381
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 253.0,
+            "RBI": 831.0,
+            "SB": 67.0,
+            "R": 808.0,
+            "K": 1103.0,
+            "W": 63.0,
+            "QS": 59.0,
+            "SV": 36.0,
+            "ERA": 4.017,
+            "WHIP": 1.216
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 164.0,
+            "RBI": 642.0,
+            "SB": 59.0,
+            "R": 667.0,
+            "K": 819.0,
+            "W": 53.0,
+            "QS": 60.0,
+            "SV": 47.0,
+            "ERA": 3.977,
+            "WHIP": 1.255
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 219.0,
+            "RBI": 669.0,
+            "SB": 39.0,
+            "R": 730.0,
+            "K": 868.0,
+            "W": 59.0,
+            "QS": 41.0,
+            "SV": 76.0,
+            "ERA": 4.112,
+            "WHIP": 1.272
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 187.0,
+            "RBI": 688.0,
+            "SB": 132.0,
+            "R": 708.0,
+            "K": 876.0,
+            "W": 50.0,
+            "QS": 43.0,
+            "SV": 51.0,
+            "ERA": 4.532,
+            "WHIP": 1.3
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 178.0,
+            "RBI": 693.0,
+            "SB": 115.0,
+            "R": 746.0,
+            "K": 1083.0,
+            "W": 83.0,
+            "QS": 73.0,
+            "SV": 52.0,
+            "ERA": 3.486,
+            "WHIP": 1.18
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 27.0,
+          "year": 2019,
+          "week": 19,
+          "team": "Barry McCockiner"
+        },
+        "RBI": {
+          "value": 70.0,
+          "year": 2019,
+          "week": 19,
+          "team": "Barry McCockiner"
+        },
+        "SB": {
+          "value": 16.0,
+          "year": 2024,
+          "week": 11,
+          "team": "Mike Oxmall"
+        },
+        "R": {
+          "value": 76.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Christy's Crusty Caps"
+        },
+        "K": {
+          "value": 91.0,
+          "year": 2025,
+          "week": 16,
+          "team": "TrumpShidzHisDiapers"
+        },
+        "W": {
+          "value": 11.0,
+          "year": 2025,
+          "week": 16,
+          "team": "TrumpShidzHisDiapers"
+        },
+        "QS": {
+          "value": 7.0,
+          "year": 2021,
+          "week": 12,
+          "team": "Zoo Station"
+        },
+        "ERA": {
+          "value": 1.44,
+          "year": 2023,
+          "week": 7,
+          "team": "Sleeping With Cigars"
+        },
+        "WHIP": {
+          "value": 0.843,
+          "year": 2022,
+          "week": 10,
+          "team": "Christy's Crusty Caps"
+        },
+        "SV": {
+          "value": 7.0,
+          "year": 2023,
+          "week": 6,
+          "team": "Sleeping With Cigars"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 256.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 831.0,
+          "year": 2021
+        },
+        "SB": {
+          "value": 132.0,
+          "year": 2024
+        },
+        "R": {
+          "value": 813.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1103.0,
+          "year": 2021
+        },
+        "W": {
+          "value": 83.0,
+          "year": 2025
+        },
+        "QS": {
+          "value": 73.0,
+          "year": 2025
+        },
+        "SV": {
+          "value": 76.0,
+          "year": 2023
+        },
+        "ERA": {
+          "value": 3.486,
+          "year": 2025
+        },
+        "WHIP": {
+          "value": 1.18,
+          "year": 2025
+        }
+      }
+    },
+    {
+      "name": "Josh Herman",
+      "championships": 1,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 311.0,
+            "RBI": 879.0,
+            "SB": 80.0,
+            "R": 913.0,
+            "K": 1525.0,
+            "W": 92.0,
+            "QS": 114.0,
+            "SV": 22.0,
+            "ERA": 4.116,
+            "WHIP": 1.276
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 217.0,
+            "RBI": 799.0,
+            "SB": 81.0,
+            "R": 877.0,
+            "K": 1360.0,
+            "W": 85.0,
+            "QS": 90.0,
+            "SV": 53.0,
+            "ERA": 4.411,
+            "WHIP": 1.28
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 199.0,
+            "RBI": 716.0,
+            "SB": 66.0,
+            "R": 759.0,
+            "K": 1380.0,
+            "W": 98.0,
+            "QS": 119.0,
+            "SV": 41.0,
+            "ERA": 3.302,
+            "WHIP": 1.166
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 223.0,
+            "RBI": 791.0,
+            "SB": 128.0,
+            "R": 798.0,
+            "K": 1504.0,
+            "W": 88.0,
+            "QS": 108.0,
+            "SV": 63.0,
+            "ERA": 3.925,
+            "WHIP": 1.241
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 220.0,
+            "RBI": 768.0,
+            "SB": 173.0,
+            "R": 808.0,
+            "K": 1517.0,
+            "W": 101.0,
+            "QS": 121.0,
+            "SV": 55.0,
+            "ERA": 3.791,
+            "WHIP": 1.197
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 260.0,
+            "RBI": 868.0,
+            "SB": 178.0,
+            "R": 871.0,
+            "K": 1350.0,
+            "W": 82.0,
+            "QS": 102.0,
+            "SV": 60.0,
+            "ERA": 3.579,
+            "WHIP": 1.173
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 29.0,
+          "year": 2019,
+          "week": 1,
+          "team": "26-53 .339"
+        },
+        "RBI": {
+          "value": 78.0,
+          "year": 2019,
+          "week": 1,
+          "team": "26-53 .339"
+        },
+        "SB": {
+          "value": 18.0,
+          "year": 2025,
+          "week": 2,
+          "team": "i used to be good"
+        },
+        "R": {
+          "value": 78.0,
+          "year": 2019,
+          "week": 1,
+          "team": "26-53 .339"
+        },
+        "K": {
+          "value": 145.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Nobody Believed in Us"
+        },
+        "W": {
+          "value": 13.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Waaaahhh  Tony"
+        },
+        "QS": {
+          "value": 14.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Waaaahhh  Tony"
+        },
+        "ERA": {
+          "value": 1.35,
+          "year": 2025,
+          "week": 3,
+          "team": "i used to be good"
+        },
+        "WHIP": {
+          "value": 0.775,
+          "year": 2025,
+          "week": 3,
+          "team": "i used to be good"
+        },
+        "SV": {
+          "value": 11.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Nobody Believed in Us"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 311.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 879.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 178.0,
+          "year": 2025
+        },
+        "R": {
+          "value": 913.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1525.0,
+          "year": 2019
+        },
+        "W": {
+          "value": 101.0,
+          "year": 2024
+        },
+        "QS": {
+          "value": 121.0,
+          "year": 2024
+        },
+        "SV": {
+          "value": 63.0,
+          "year": 2023
+        },
+        "ERA": {
+          "value": 3.302,
+          "year": 2022
+        },
+        "WHIP": {
+          "value": 1.166,
+          "year": 2022
+        }
+      }
+    },
+    {
+      "name": "Toby Rotman",
+      "championships": 1,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 278.0,
+            "RBI": 871.0,
+            "SB": 87.0,
+            "R": 963.0,
+            "K": 1418.0,
+            "W": 92.0,
+            "QS": 105.0,
+            "SV": 0,
+            "ERA": 4.754,
+            "WHIP": 1.378
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 184.0,
+            "RBI": 693.0,
+            "SB": 73.0,
+            "R": 739.0,
+            "K": 1152.0,
+            "W": 63.0,
+            "QS": 83.0,
+            "SV": 2.0,
+            "ERA": 4.56,
+            "WHIP": 1.284
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 175.0,
+            "RBI": 685.0,
+            "SB": 109.0,
+            "R": 752.0,
+            "K": 1350.0,
+            "W": 73.0,
+            "QS": 86.0,
+            "SV": 5.0,
+            "ERA": 4.03,
+            "WHIP": 1.25
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 226.0,
+            "RBI": 791.0,
+            "SB": 167.0,
+            "R": 853.0,
+            "K": 1295.0,
+            "W": 90.0,
+            "QS": 77.0,
+            "SV": 76.0,
+            "ERA": 4.425,
+            "WHIP": 1.315
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 218.0,
+            "RBI": 793.0,
+            "SB": 159.0,
+            "R": 743.0,
+            "K": 1307.0,
+            "W": 86.0,
+            "QS": 95.0,
+            "SV": 63.0,
+            "ERA": 4.336,
+            "WHIP": 1.277
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 209.0,
+            "RBI": 764.0,
+            "SB": 183.0,
+            "R": 774.0,
+            "K": 1371.0,
+            "W": 83.0,
+            "QS": 90.0,
+            "SV": 36.0,
+            "ERA": 4.307,
+            "WHIP": 1.287
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 27.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Show Why I Kept You, Mookie"
+        },
+        "RBI": {
+          "value": 78.0,
+          "year": 2025,
+          "week": 16,
+          "team": "This is a new low..... "
+        },
+        "SB": {
+          "value": 23.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Let's try to  Shake it up "
+        },
+        "R": {
+          "value": 85.0,
+          "year": 2025,
+          "week": 16,
+          "team": "This is a new low..... "
+        },
+        "K": {
+          "value": 121.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Show Why I Kept You, Mookie"
+        },
+        "W": {
+          "value": 8.0,
+          "year": 2022,
+          "week": 12,
+          "team": "Feline rear end Wager Avoider"
+        },
+        "QS": {
+          "value": 10.0,
+          "year": 2019,
+          "week": 16,
+          "team": "Show Why I Kept You, Mookie"
+        },
+        "ERA": {
+          "value": 1.256,
+          "year": 2024,
+          "week": 1,
+          "team": "Try to Shake Things Up, Again"
+        },
+        "WHIP": {
+          "value": 0.837,
+          "year": 2024,
+          "week": 1,
+          "team": "Try to Shake Things Up, Again"
+        },
+        "SV": {
+          "value": 8.0,
+          "year": 2023,
+          "week": 12,
+          "team": "Let's try to  Shake it up "
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 278.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 871.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 183.0,
+          "year": 2025
+        },
+        "R": {
+          "value": 963.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1418.0,
+          "year": 2019
+        },
+        "W": {
+          "value": 92.0,
+          "year": 2019
+        },
+        "QS": {
+          "value": 105.0,
+          "year": 2019
+        },
+        "ERA": {
+          "value": 4.03,
+          "year": 2022
+        },
+        "WHIP": {
+          "value": 1.25,
+          "year": 2022
+        },
+        "SV": {
+          "value": 76.0,
+          "year": 2023
+        }
+      }
+    },
+    {
+      "name": "Jason Altman",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 259.0,
+            "RBI": 760.0,
+            "SB": 61.0,
+            "R": 801.0,
+            "K": 1384.0,
+            "W": 76.0,
+            "QS": 90.0,
+            "SV": 99.0,
+            "ERA": 3.397,
+            "WHIP": 1.113
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 238.0,
+            "RBI": 778.0,
+            "SB": 83.0,
+            "R": 772.0,
+            "K": 1205.0,
+            "W": 92.0,
+            "QS": 74.0,
+            "SV": 47.0,
+            "ERA": 4.122,
+            "WHIP": 1.297
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 185.0,
+            "RBI": 676.0,
+            "SB": 52.0,
+            "R": 687.0,
+            "K": 1235.0,
+            "W": 85.0,
+            "QS": 87.0,
+            "SV": 54.0,
+            "ERA": 3.839,
+            "WHIP": 1.226
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 161.0,
+            "RBI": 680.0,
+            "SB": 102.0,
+            "R": 746.0,
+            "K": 1177.0,
+            "W": 67.0,
+            "QS": 70.0,
+            "SV": 66.0,
+            "ERA": 4.322,
+            "WHIP": 1.284
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 170.0,
+            "RBI": 603.0,
+            "SB": 97.0,
+            "R": 689.0,
+            "K": 1435.0,
+            "W": 99.0,
+            "QS": 115.0,
+            "SV": 0,
+            "ERA": 3.856,
+            "WHIP": 1.266
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 224.0,
+            "RBI": 794.0,
+            "SB": 95.0,
+            "R": 802.0,
+            "K": 1338.0,
+            "W": 76.0,
+            "QS": 98.0,
+            "SV": 67.0,
+            "ERA": 4.179,
+            "WHIP": 1.267
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 27.0,
+          "year": 2019,
+          "week": 14,
+          "team": "The Swan"
+        },
+        "RBI": {
+          "value": 73.0,
+          "year": 2019,
+          "week": 14,
+          "team": "The Swan"
+        },
+        "SB": {
+          "value": 11.0,
+          "year": 2023,
+          "week": 1,
+          "team": "The Swan"
+        },
+        "R": {
+          "value": 78.0,
+          "year": 2023,
+          "week": 1,
+          "team": "The Swan"
+        },
+        "K": {
+          "value": 116.0,
+          "year": 2019,
+          "week": 14,
+          "team": "The Swan"
+        },
+        "W": {
+          "value": 9.0,
+          "year": 2021,
+          "week": 14,
+          "team": "The Swan"
+        },
+        "QS": {
+          "value": 13.0,
+          "year": 2024,
+          "week": 7,
+          "team": "The Swan"
+        },
+        "SV": {
+          "value": 19.0,
+          "year": 2019,
+          "week": 1,
+          "team": "The Swan"
+        },
+        "ERA": {
+          "value": 1.565,
+          "year": 2019,
+          "week": 1,
+          "team": "The Swan"
+        },
+        "WHIP": {
+          "value": 0.826,
+          "year": 2019,
+          "week": 1,
+          "team": "The Swan"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 259.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 794.0,
+          "year": 2025
+        },
+        "SB": {
+          "value": 102.0,
+          "year": 2023
+        },
+        "R": {
+          "value": 802.0,
+          "year": 2025
+        },
+        "K": {
+          "value": 1435.0,
+          "year": 2024
+        },
+        "W": {
+          "value": 99.0,
+          "year": 2024
+        },
+        "QS": {
+          "value": 115.0,
+          "year": 2024
+        },
+        "SV": {
+          "value": 99.0,
+          "year": 2019
+        },
+        "ERA": {
+          "value": 3.397,
+          "year": 2019
+        },
+        "WHIP": {
+          "value": 1.113,
+          "year": 2019
+        }
+      }
+    },
+    {
+      "name": "Adam Cohen",
+      "championships": 1,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 235.0,
+            "RBI": 765.0,
+            "SB": 114.0,
+            "R": 850.0,
+            "K": 1479.0,
+            "W": 92.0,
+            "QS": 114.0,
+            "SV": 47.0,
+            "ERA": 3.967,
+            "WHIP": 1.232
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 247.0,
+            "RBI": 815.0,
+            "SB": 89.0,
+            "R": 826.0,
+            "K": 1337.0,
+            "W": 78.0,
+            "QS": 104.0,
+            "SV": 45.0,
+            "ERA": 3.966,
+            "WHIP": 1.237
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 244.0,
+            "RBI": 811.0,
+            "SB": 111.0,
+            "R": 846.0,
+            "K": 1362.0,
+            "W": 91.0,
+            "QS": 94.0,
+            "SV": 69.0,
+            "ERA": 3.256,
+            "WHIP": 1.122
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 262.0,
+            "RBI": 768.0,
+            "SB": 167.0,
+            "R": 826.0,
+            "K": 1466.0,
+            "W": 106.0,
+            "QS": 113.0,
+            "SV": 66.0,
+            "ERA": 3.843,
+            "WHIP": 1.21
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 237.0,
+            "RBI": 801.0,
+            "SB": 167.0,
+            "R": 842.0,
+            "K": 1356.0,
+            "W": 96.0,
+            "QS": 91.0,
+            "SV": 67.0,
+            "ERA": 3.384,
+            "WHIP": 1.141
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 192.0,
+            "RBI": 753.0,
+            "SB": 157.0,
+            "R": 757.0,
+            "K": 1288.0,
+            "W": 80.0,
+            "QS": 87.0,
+            "SV": 64.0,
+            "ERA": 3.828,
+            "WHIP": 1.197
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 29.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Scrappy Ending"
+        },
+        "RBI": {
+          "value": 90.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Scrappy Ending"
+        },
+        "SB": {
+          "value": 15.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Scrappy Ending"
+        },
+        "R": {
+          "value": 88.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Scrappy Ending"
+        },
+        "K": {
+          "value": 124.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Scrappy Ending"
+        },
+        "W": {
+          "value": 9.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Scrappy Ending"
+        },
+        "QS": {
+          "value": 13.0,
+          "year": 2019,
+          "week": 14,
+          "team": "Scrappy Ending"
+        },
+        "SV": {
+          "value": 7.0,
+          "year": 2019,
+          "week": 5,
+          "team": "Scrappy Ending"
+        },
+        "ERA": {
+          "value": 1.55,
+          "year": 2022,
+          "week": 4,
+          "team": "Scrappy Ending"
+        },
+        "WHIP": {
+          "value": 0.81,
+          "year": 2022,
+          "week": 2,
+          "team": "Scrappy Ending"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 262.0,
+          "year": 2023
+        },
+        "RBI": {
+          "value": 815.0,
+          "year": 2021
+        },
+        "SB": {
+          "value": 167.0,
+          "year": 2023
+        },
+        "R": {
+          "value": 850.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1479.0,
+          "year": 2019
+        },
+        "W": {
+          "value": 106.0,
+          "year": 2023
+        },
+        "QS": {
+          "value": 114.0,
+          "year": 2019
+        },
+        "SV": {
+          "value": 69.0,
+          "year": 2022
+        },
+        "ERA": {
+          "value": 3.256,
+          "year": 2022
+        },
+        "WHIP": {
+          "value": 1.122,
+          "year": 2022
+        }
+      }
+    },
+    {
+      "name": "JASON VOLAT",
+      "championships": 1,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 287.0,
+            "RBI": 885.0,
+            "SB": 113.0,
+            "R": 915.0,
+            "K": 1241.0,
+            "W": 80.0,
+            "QS": 93.0,
+            "SV": 55.0,
+            "ERA": 3.858,
+            "WHIP": 1.205
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 277.0,
+            "RBI": 826.0,
+            "SB": 96.0,
+            "R": 908.0,
+            "K": 1317.0,
+            "W": 80.0,
+            "QS": 97.0,
+            "SV": 37.0,
+            "ERA": 3.507,
+            "WHIP": 1.145
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 185.0,
+            "RBI": 692.0,
+            "SB": 100.0,
+            "R": 718.0,
+            "K": 1236.0,
+            "W": 83.0,
+            "QS": 98.0,
+            "SV": 28.0,
+            "ERA": 3.173,
+            "WHIP": 1.12
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 243.0,
+            "RBI": 779.0,
+            "SB": 157.0,
+            "R": 800.0,
+            "K": 1332.0,
+            "W": 78.0,
+            "QS": 82.0,
+            "SV": 25.0,
+            "ERA": 4.326,
+            "WHIP": 1.286
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 235.0,
+            "RBI": 754.0,
+            "SB": 153.0,
+            "R": 813.0,
+            "K": 1182.0,
+            "W": 70.0,
+            "QS": 82.0,
+            "SV": 22.0,
+            "ERA": 4.105,
+            "WHIP": 1.221
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 244.0,
+            "RBI": 817.0,
+            "SB": 180.0,
+            "R": 874.0,
+            "K": 1213.0,
+            "W": 75.0,
+            "QS": 89.0,
+            "SV": 15.0,
+            "ERA": 4.047,
+            "WHIP": 1.254
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 31.0,
+          "year": 2019,
+          "week": 18,
+          "team": "THE CORONADO KINGS"
+        },
+        "RBI": {
+          "value": 75.0,
+          "year": 2022,
+          "week": 14,
+          "team": "THE CORONADO KINGS"
+        },
+        "SB": {
+          "value": 17.0,
+          "year": 2024,
+          "week": 15,
+          "team": "THE HARRY DOYLE\u2019S"
+        },
+        "R": {
+          "value": 82.0,
+          "year": 2021,
+          "week": 14,
+          "team": "THE CORONADO KINGS"
+        },
+        "K": {
+          "value": 127.0,
+          "year": 2023,
+          "week": 14,
+          "team": "THE HOMER  HOE$"
+        },
+        "W": {
+          "value": 9.0,
+          "year": 2019,
+          "week": 1,
+          "team": "THE CORONADO KINGS"
+        },
+        "QS": {
+          "value": 9.0,
+          "year": 2025,
+          "week": 8,
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS"
+        },
+        "SV": {
+          "value": 4.0,
+          "year": 2019,
+          "week": 2,
+          "team": "THE CORONADO KINGS"
+        },
+        "ERA": {
+          "value": 1.844,
+          "year": 2021,
+          "week": 4,
+          "team": "THE CORONADO KINGS"
+        },
+        "WHIP": {
+          "value": 0.787,
+          "year": 2025,
+          "week": 1,
+          "team": "JUST A BIT OUTSIDE\u2026.DA PLAYOFFS"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 287.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 885.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 180.0,
+          "year": 2025
+        },
+        "R": {
+          "value": 915.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1332.0,
+          "year": 2023
+        },
+        "W": {
+          "value": 83.0,
+          "year": 2022
+        },
+        "QS": {
+          "value": 98.0,
+          "year": 2022
+        },
+        "SV": {
+          "value": 55.0,
+          "year": 2019
+        },
+        "ERA": {
+          "value": 3.173,
+          "year": 2022
+        },
+        "WHIP": {
+          "value": 1.12,
+          "year": 2022
+        }
+      }
+    },
+    {
+      "name": "David Dorfman",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 278.0,
+            "RBI": 831.0,
+            "SB": 68.0,
+            "R": 890.0,
+            "K": 1224.0,
+            "W": 80.0,
+            "QS": 93.0,
+            "SV": 7.0,
+            "ERA": 4.562,
+            "WHIP": 1.36
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 226.0,
+            "RBI": 797.0,
+            "SB": 86.0,
+            "R": 749.0,
+            "K": 1180.0,
+            "W": 78.0,
+            "QS": 91.0,
+            "SV": 36.0,
+            "ERA": 3.414,
+            "WHIP": 1.155
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 220.0,
+            "RBI": 756.0,
+            "SB": 111.0,
+            "R": 806.0,
+            "K": 1199.0,
+            "W": 78.0,
+            "QS": 117.0,
+            "SV": 1.0,
+            "ERA": 3.924,
+            "WHIP": 1.271
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 270.0,
+            "RBI": 952.0,
+            "SB": 102.0,
+            "R": 860.0,
+            "K": 1363.0,
+            "W": 90.0,
+            "QS": 98.0,
+            "SV": 5.0,
+            "ERA": 4.263,
+            "WHIP": 1.288
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 232.0,
+            "RBI": 810.0,
+            "SB": 114.0,
+            "R": 831.0,
+            "K": 1063.0,
+            "W": 71.0,
+            "QS": 74.0,
+            "SV": 51.0,
+            "ERA": 3.303,
+            "WHIP": 1.158
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 239.0,
+            "RBI": 794.0,
+            "SB": 176.0,
+            "R": 827.0,
+            "K": 1180.0,
+            "W": 79.0,
+            "QS": 74.0,
+            "SV": 44.0,
+            "ERA": 3.758,
+            "WHIP": 1.235
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 28.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Overcorrected Nut Saks"
+        },
+        "RBI": {
+          "value": 89.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Overcorrected Nut Saks"
+        },
+        "SB": {
+          "value": 17.0,
+          "year": 2025,
+          "week": 5,
+          "team": "Nut Saks"
+        },
+        "R": {
+          "value": 81.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Overcorrected Nut Saks"
+        },
+        "K": {
+          "value": 127.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Overcorrected Nut Saks"
+        },
+        "W": {
+          "value": 9.0,
+          "year": 2023,
+          "week": 1,
+          "team": "Overcorrected Nut Saks"
+        },
+        "QS": {
+          "value": 9.0,
+          "year": 2021,
+          "week": 1,
+          "team": "Nut Saks"
+        },
+        "SV": {
+          "value": 6.0,
+          "year": 2025,
+          "week": 17,
+          "team": "Nut Saks"
+        },
+        "ERA": {
+          "value": 1.612,
+          "year": 2024,
+          "week": 9,
+          "team": "Nut Saks"
+        },
+        "WHIP": {
+          "value": 0.805,
+          "year": 2023,
+          "week": 11,
+          "team": "Overcorrected Nut Saks"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 278.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 952.0,
+          "year": 2023
+        },
+        "SB": {
+          "value": 176.0,
+          "year": 2025
+        },
+        "R": {
+          "value": 890.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1363.0,
+          "year": 2023
+        },
+        "W": {
+          "value": 90.0,
+          "year": 2023
+        },
+        "QS": {
+          "value": 117.0,
+          "year": 2022
+        },
+        "SV": {
+          "value": 51.0,
+          "year": 2024
+        },
+        "ERA": {
+          "value": 3.303,
+          "year": 2024
+        },
+        "WHIP": {
+          "value": 1.155,
+          "year": 2021
+        }
+      }
+    },
+    {
+      "name": "Andrew Levitt",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 271.0,
+            "RBI": 842.0,
+            "SB": 91.0,
+            "R": 920.0,
+            "K": 1291.0,
+            "W": 75.0,
+            "QS": 93.0,
+            "SV": 113.0,
+            "ERA": 3.678,
+            "WHIP": 1.133
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 226.0,
+            "RBI": 713.0,
+            "SB": 43.0,
+            "R": 705.0,
+            "K": 1238.0,
+            "W": 80.0,
+            "QS": 90.0,
+            "SV": 72.0,
+            "ERA": 3.736,
+            "WHIP": 1.194
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 180.0,
+            "RBI": 644.0,
+            "SB": 40.0,
+            "R": 605.0,
+            "K": 1224.0,
+            "W": 81.0,
+            "QS": 85.0,
+            "SV": 64.0,
+            "ERA": 3.775,
+            "WHIP": 1.17
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 217.0,
+            "RBI": 732.0,
+            "SB": 109.0,
+            "R": 830.0,
+            "K": 1296.0,
+            "W": 88.0,
+            "QS": 108.0,
+            "SV": 34.0,
+            "ERA": 3.892,
+            "WHIP": 1.235
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 206.0,
+            "RBI": 702.0,
+            "SB": 115.0,
+            "R": 703.0,
+            "K": 1323.0,
+            "W": 88.0,
+            "QS": 104.0,
+            "SV": 41.0,
+            "ERA": 3.479,
+            "WHIP": 1.193
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 219.0,
+            "RBI": 732.0,
+            "SB": 122.0,
+            "R": 799.0,
+            "K": 1305.0,
+            "W": 84.0,
+            "QS": 102.0,
+            "SV": 38.0,
+            "ERA": 4.01,
+            "WHIP": 1.232
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 26.0,
+          "year": 2019,
+          "week": 1,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "RBI": {
+          "value": 82.0,
+          "year": 2019,
+          "week": 1,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "SB": {
+          "value": 15.0,
+          "year": 2023,
+          "week": 1,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "R": {
+          "value": 77.0,
+          "year": 2019,
+          "week": 1,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "K": {
+          "value": 126.0,
+          "year": 2021,
+          "week": 1,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "W": {
+          "value": 9.0,
+          "year": 2023,
+          "week": 17,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "QS": {
+          "value": 12.0,
+          "year": 2025,
+          "week": 8,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "SV": {
+          "value": 11.0,
+          "year": 2019,
+          "week": 1,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "ERA": {
+          "value": 1.834,
+          "year": 2025,
+          "week": 8,
+          "team": "ALBIEEEES to be Patricia Marie"
+        },
+        "WHIP": {
+          "value": 0.88,
+          "year": 2019,
+          "week": 6,
+          "team": "ALBIEEEES to be Patricia Marie"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 271.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 842.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 122.0,
+          "year": 2025
+        },
+        "R": {
+          "value": 920.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1323.0,
+          "year": 2024
+        },
+        "W": {
+          "value": 88.0,
+          "year": 2023
+        },
+        "QS": {
+          "value": 108.0,
+          "year": 2023
+        },
+        "SV": {
+          "value": 113.0,
+          "year": 2019
+        },
+        "ERA": {
+          "value": 3.479,
+          "year": 2024
+        },
+        "WHIP": {
+          "value": 1.133,
+          "year": 2019
+        }
+      }
+    },
+    {
+      "name": "Aaron Brodsky",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 201.0,
+            "RBI": 794.0,
+            "SB": 105.0,
+            "R": 743.0,
+            "K": 1063.0,
+            "W": 75.0,
+            "QS": 86.0,
+            "SV": 53.0,
+            "ERA": 4.097,
+            "WHIP": 1.296
+          }
+        },
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 214.0,
+            "RBI": 729.0,
+            "SB": 76.0,
+            "R": 764.0,
+            "K": 1014.0,
+            "W": 75.0,
+            "QS": 76.0,
+            "SV": 56.0,
+            "ERA": 3.737,
+            "WHIP": 1.186
+          }
+        },
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 229.0,
+            "RBI": 698.0,
+            "SB": 100.0,
+            "R": 755.0,
+            "K": 1108.0,
+            "W": 76.0,
+            "QS": 77.0,
+            "SV": 45.0,
+            "ERA": 4.236,
+            "WHIP": 1.269
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 204.0,
+            "RBI": 743.0,
+            "SB": 65.0,
+            "R": 765.0,
+            "K": 1179.0,
+            "W": 70.0,
+            "QS": 77.0,
+            "SV": 65.0,
+            "ERA": 4.132,
+            "WHIP": 1.303
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 197.0,
+            "RBI": 763.0,
+            "SB": 135.0,
+            "R": 790.0,
+            "K": 1193.0,
+            "W": 67.0,
+            "QS": 95.0,
+            "SV": 64.0,
+            "ERA": 3.997,
+            "WHIP": 1.176
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 177.0,
+            "RBI": 685.0,
+            "SB": 55.0,
+            "R": 639.0,
+            "K": 1109.0,
+            "W": 91.0,
+            "QS": 82.0,
+            "SV": 74.0,
+            "ERA": 3.854,
+            "WHIP": 1.223
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 23.0,
+          "year": 2021,
+          "week": 1,
+          "team": "Down with Disease"
+        },
+        "RBI": {
+          "value": 77.0,
+          "year": 2021,
+          "week": 14,
+          "team": "Down with Disease"
+        },
+        "SB": {
+          "value": 18.0,
+          "year": 2024,
+          "week": 16,
+          "team": "Try the Veal"
+        },
+        "R": {
+          "value": 74.0,
+          "year": 2021,
+          "week": 14,
+          "team": "Down with Disease"
+        },
+        "K": {
+          "value": 115.0,
+          "year": 2023,
+          "week": 1,
+          "team": "Try the Veal"
+        },
+        "W": {
+          "value": 14.0,
+          "year": 2025,
+          "week": 16,
+          "team": "Try the Veal"
+        },
+        "QS": {
+          "value": 12.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Brodsky's Best Dragon Roll"
+        },
+        "SV": {
+          "value": 7.0,
+          "year": 2019,
+          "week": 1,
+          "team": "Brodsky's Best Dragon Roll"
+        },
+        "ERA": {
+          "value": 1.263,
+          "year": 2024,
+          "week": 5,
+          "team": "Try the Veal"
+        },
+        "WHIP": {
+          "value": 0.86,
+          "year": 2024,
+          "week": 5,
+          "team": "Try the Veal"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 229.0,
+          "year": 2022
+        },
+        "RBI": {
+          "value": 794.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 135.0,
+          "year": 2024
+        },
+        "R": {
+          "value": 790.0,
+          "year": 2024
+        },
+        "K": {
+          "value": 1193.0,
+          "year": 2024
+        },
+        "W": {
+          "value": 91.0,
+          "year": 2025
+        },
+        "QS": {
+          "value": 95.0,
+          "year": 2024
+        },
+        "SV": {
+          "value": 74.0,
+          "year": 2025
+        },
+        "ERA": {
+          "value": 3.737,
+          "year": 2021
+        },
+        "WHIP": {
+          "value": 1.176,
+          "year": 2024
+        }
+      }
+    },
+    {
+      "name": "Bradd Caplan",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2019,
+          "stats": {
+            "HR": 246.0,
+            "RBI": 804.0,
+            "SB": 84.0,
+            "R": 839.0,
+            "K": 1577.0,
+            "W": 92.0,
+            "QS": 117.0,
+            "SV": 12.0,
+            "ERA": 4.081,
+            "WHIP": 1.238
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 19.0,
+          "year": 2019,
+          "week": 8,
+          "team": "The Flux"
+        },
+        "RBI": {
+          "value": 66.0,
+          "year": 2019,
+          "week": 1,
+          "team": "The Flux"
+        },
+        "SB": {
+          "value": 9.0,
+          "year": 2019,
+          "week": 12,
+          "team": "The Flux"
+        },
+        "R": {
+          "value": 73.0,
+          "year": 2019,
+          "week": 1,
+          "team": "The Flux"
+        },
+        "K": {
+          "value": 153.0,
+          "year": 2019,
+          "week": 14,
+          "team": "The Flux"
+        },
+        "W": {
+          "value": 8.0,
+          "year": 2019,
+          "week": 18,
+          "team": "The Flux"
+        },
+        "QS": {
+          "value": 11.0,
+          "year": 2019,
+          "week": 6,
+          "team": "The Flux"
+        },
+        "ERA": {
+          "value": 2.213,
+          "year": 2019,
+          "week": 7,
+          "team": "The Flux"
+        },
+        "WHIP": {
+          "value": 0.926,
+          "year": 2019,
+          "week": 3,
+          "team": "The Flux"
+        },
+        "SV": {
+          "value": 3.0,
+          "year": 2019,
+          "week": 14,
+          "team": "The Flux"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 246.0,
+          "year": 2019
+        },
+        "RBI": {
+          "value": 804.0,
+          "year": 2019
+        },
+        "SB": {
+          "value": 84.0,
+          "year": 2019
+        },
+        "R": {
+          "value": 839.0,
+          "year": 2019
+        },
+        "K": {
+          "value": 1577.0,
+          "year": 2019
+        },
+        "W": {
+          "value": 92.0,
+          "year": 2019
+        },
+        "QS": {
+          "value": 117.0,
+          "year": 2019
+        },
+        "SV": {
+          "value": 12.0,
+          "year": 2019
+        },
+        "ERA": {
+          "value": 4.081,
+          "year": 2019
+        },
+        "WHIP": {
+          "value": 1.238,
+          "year": 2019
+        }
+      }
+    },
+    {
+      "name": "Josh Lessner",
+      "championships": 0,
+      "seasons": [
+        {
+          "year": 2021,
+          "stats": {
+            "HR": 185.0,
+            "RBI": 663.0,
+            "SB": 132.0,
+            "R": 779.0,
+            "K": 1042.0,
+            "W": 57.0,
+            "QS": 55.0,
+            "SV": 41.0,
+            "ERA": 3.551,
+            "WHIP": 1.175
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 15.0,
+          "year": 2021,
+          "week": 10,
+          "team": "Soler Panels"
+        },
+        "RBI": {
+          "value": 57.0,
+          "year": 2021,
+          "week": 14,
+          "team": "Soler Panels"
+        },
+        "SB": {
+          "value": 13.0,
+          "year": 2021,
+          "week": 19,
+          "team": "Soler Panels"
+        },
+        "R": {
+          "value": 62.0,
+          "year": 2021,
+          "week": 1,
+          "team": "Soler Panels"
+        },
+        "K": {
+          "value": 109.0,
+          "year": 2021,
+          "week": 1,
+          "team": "Soler Panels"
+        },
+        "W": {
+          "value": 9.0,
+          "year": 2021,
+          "week": 1,
+          "team": "Soler Panels"
+        },
+        "QS": {
+          "value": 6.0,
+          "year": 2021,
+          "week": 14,
+          "team": "Soler Panels"
+        },
+        "ERA": {
+          "value": 1.317,
+          "year": 2021,
+          "week": 12,
+          "team": "Soler Panels"
+        },
+        "WHIP": {
+          "value": 0.826,
+          "year": 2021,
+          "week": 7,
+          "team": "Soler Panels"
+        },
+        "SV": {
+          "value": 6.0,
+          "year": 2021,
+          "week": 4,
+          "team": "Soler Panels"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 185.0,
+          "year": 2021
+        },
+        "RBI": {
+          "value": 663.0,
+          "year": 2021
+        },
+        "SB": {
+          "value": 132.0,
+          "year": 2021
+        },
+        "R": {
+          "value": 779.0,
+          "year": 2021
+        },
+        "K": {
+          "value": 1042.0,
+          "year": 2021
+        },
+        "W": {
+          "value": 57.0,
+          "year": 2021
+        },
+        "QS": {
+          "value": 55.0,
+          "year": 2021
+        },
+        "SV": {
+          "value": 41.0,
+          "year": 2021
+        },
+        "ERA": {
+          "value": 3.551,
+          "year": 2021
+        },
+        "WHIP": {
+          "value": 1.175,
+          "year": 2021
+        }
+      }
+    },
+    {
+      "name": "Robert Rudman",
+      "championships": 2,
+      "seasons": [
+        {
+          "year": 2022,
+          "stats": {
+            "HR": 206.0,
+            "RBI": 733.0,
+            "SB": 92.0,
+            "R": 712.0,
+            "K": 1367.0,
+            "W": 90.0,
+            "QS": 109.0,
+            "SV": 40.0,
+            "ERA": 3.734,
+            "WHIP": 1.249
+          }
+        },
+        {
+          "year": 2023,
+          "stats": {
+            "HR": 241.0,
+            "RBI": 822.0,
+            "SB": 170.0,
+            "R": 833.0,
+            "K": 1454.0,
+            "W": 88.0,
+            "QS": 119.0,
+            "SV": 39.0,
+            "ERA": 3.596,
+            "WHIP": 1.195
+          }
+        },
+        {
+          "year": 2024,
+          "stats": {
+            "HR": 221.0,
+            "RBI": 747.0,
+            "SB": 104.0,
+            "R": 798.0,
+            "K": 1382.0,
+            "W": 87.0,
+            "QS": 107.0,
+            "SV": 44.0,
+            "ERA": 3.814,
+            "WHIP": 1.185
+          }
+        },
+        {
+          "year": 2025,
+          "stats": {
+            "HR": 261.0,
+            "RBI": 829.0,
+            "SB": 106.0,
+            "R": 848.0,
+            "K": 1437.0,
+            "W": 86.0,
+            "QS": 85.0,
+            "SV": 43.0,
+            "ERA": 3.855,
+            "WHIP": 1.253
+          }
+        }
+      ],
+      "weekly_records": {
+        "HR": {
+          "value": 25.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Cream of Sum Jung Guy"
+        },
+        "RBI": {
+          "value": 76.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Cream of Sum Jung Guy"
+        },
+        "SB": {
+          "value": 17.0,
+          "year": 2023,
+          "week": 9,
+          "team": "Cream of Sum Jung Guy"
+        },
+        "R": {
+          "value": 73.0,
+          "year": 2023,
+          "week": 1,
+          "team": "Cream of Sum Jung Guy"
+        },
+        "K": {
+          "value": 125.0,
+          "year": 2022,
+          "week": 14,
+          "team": "Adames Family"
+        },
+        "W": {
+          "value": 10.0,
+          "year": 2025,
+          "week": 16,
+          "team": " Always Betts on Black"
+        },
+        "QS": {
+          "value": 11.0,
+          "year": 2023,
+          "week": 14,
+          "team": "Cream of Sum Jung Guy"
+        },
+        "SV": {
+          "value": 6.0,
+          "year": 2024,
+          "week": 16,
+          "team": "Luisangel of Harlem"
+        },
+        "ERA": {
+          "value": 1.717,
+          "year": 2022,
+          "week": 3,
+          "team": "Adames Family"
+        },
+        "WHIP": {
+          "value": 0.832,
+          "year": 2022,
+          "week": 3,
+          "team": "Adames Family"
+        }
+      },
+      "season_records": {
+        "HR": {
+          "value": 261.0,
+          "year": 2025
+        },
+        "RBI": {
+          "value": 829.0,
+          "year": 2025
+        },
+        "SB": {
+          "value": 170.0,
+          "year": 2023
+        },
+        "R": {
+          "value": 848.0,
+          "year": 2025
+        },
+        "K": {
+          "value": 1454.0,
+          "year": 2023
+        },
+        "W": {
+          "value": 90.0,
+          "year": 2022
+        },
+        "QS": {
+          "value": 119.0,
+          "year": 2023
+        },
+        "SV": {
+          "value": 44.0,
+          "year": 2024
+        },
+        "ERA": {
+          "value": 3.596,
+          "year": 2023
+        },
+        "WHIP": {
+          "value": 1.185,
+          "year": 2024
+        }
+      }
+    }
+  ]
+}

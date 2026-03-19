@@ -1,5 +1,7 @@
 
 
+name: Weekly Fantasy Baseball Update
+
 on:
   schedule:
     - cron: '0 14 * * 1'  # Every Monday at 7am Pacific
@@ -19,16 +21,22 @@ jobs:
       - name: Install dependencies
         run: pip install espn-api
 
-      - name: Run script
+      - name: Run roto script
         env:
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           SWID: ${{ secrets.SWID }}
-        run: python roto.py
+        run: python3 roto.py
+
+      - name: Run historical script
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
+        run: python3 historical.py
 
       - name: Commit updated data
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add league_data.json
+          git add league_data.json historical.json
           git diff --staged --quiet || git commit -m "Weekly data update"
           git push

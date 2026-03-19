@@ -4,12 +4,13 @@ from datetime import date
 
 # Your league credentials
 LEAGUE_ID = 4080
-YEAR = 2025
+YEAR = 2026
 
 import os
-ESPN_S2 = os.environ.get("ESPN_S2")
-SWID = os.environ.get("SWID")
+ESPN_S2 = os.environ.get("ESPN_S2") or "AEBRiflUWxGKgd8y7gIgv2oaurm6uEhNtfbkJw6x4Iul51Y5gkdGNeJW4VNxTTdSQO9OCDvY6pwxSoJm5IDMWx/LDoO445gObQ0ySfB98Eghwl38aZXbNd5zgTH21BhVLs9hQzCZPfx+KynRsyFQ5eOMTE+aeCCAosaz+yI0bkmt4yxjKBJtY2Ke25QBKzSowY/3Vn+lEmvKi8znkiDPCUjX/4dKAyPIxEKbyW2UGEfsWGQTSpG4RblY3TtRhrsEMS/PbC+34cdd2Gf32u7yZPDz"
+SWID = os.environ.get("SWID") or "{27E33A0F-8C90-11D3-8208-00A0C9E58E2D}"
 
+print(repr(ESPN_S2[:30]))
 league = League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
 
 
@@ -123,6 +124,15 @@ print("Pulling data for all 19 weeks...")
 for week in range(1, 20):
     try:
         boxes = league.box_scores(week)
+        
+        # Skip empty weeks (season hasn't reached this week yet)
+        total_hr = sum(
+            box.home_stats.get('HR', {}).get('value', 0) or 0
+            for box in boxes
+        )
+        if total_hr == 0:
+            print(f"  Week {week} empty, stopping")
+            break
 
         # Accumulate raw stats
         week_raw = {}

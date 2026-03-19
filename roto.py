@@ -7,8 +7,8 @@ LEAGUE_ID = 4080
 YEAR = 2026
 
 import os
-ESPN_S2 = os.environ.get("ESPN_S2") or "AEBRiflUWxGKgd8y7gIgv2oaurm6uEhNtfbkJw6x4Iul51Y5gkdGNeJW4VNxTTdSQO9OCDvY6pwxSoJm5IDMWx/LDoO445gObQ0ySfB98Eghwl38aZXbNd5zgTH21BhVLs9hQzCZPfx+KynRsyFQ5eOMTE+aeCCAosaz+yI0bkmt4yxjKBJtY2Ke25QBKzSowY/3Vn+lEmvKi8znkiDPCUjX/4dKAyPIxEKbyW2UGEfsWGQTSpG4RblY3TtRhrsEMS/PbC+34cdd2Gf32u7yZPDz"
-SWID = os.environ.get("SWID") or "{27E33A0F-8C90-11D3-8208-00A0C9E58E2D}"
+ESPN_S2 = os.environ.get("ESPN_S2")
+SWID = os.environ.get("SWID")
 
 print(repr(ESPN_S2[:30]))
 league = League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)

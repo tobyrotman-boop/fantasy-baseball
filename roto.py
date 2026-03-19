@@ -10,7 +10,6 @@ import os
 ESPN_S2 = os.environ.get("ESPN_S2")
 SWID = os.environ.get("SWID")
 
-print(repr(ESPN_S2[:30]))
 league = League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
 
 

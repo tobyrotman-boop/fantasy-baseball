@@ -202,6 +202,10 @@ print("\n" + "="*75)
 print("REPORT 1: FINAL ROTO STANDINGS")
 print("="*75)
 
+if not roto_history:
+    print("No data yet - season hasn't started")
+    exit(0)
+
 final = roto_history[-1]
 roto_rows = []
 for name in team_names:

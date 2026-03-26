@@ -125,14 +125,14 @@ for week in range(1, 20):
         boxes = league.box_scores(week)
         
         # Skip empty weeks (season hasn't reached this week yet)
-        total_hr = sum(
-            box.home_stats.get('HR', {}).get('value', 0) or 0
+               total_r = sum(
+            box.home_stats.get('R', {}).get('value', 0) or 0
             for box in boxes
         )
-        if total_hr == 0:
+        if total_r == 0:
             print(f"  Week {week} empty, stopping")
             break
-
+            
         # Accumulate raw stats
         week_raw = {}
         for box in boxes:

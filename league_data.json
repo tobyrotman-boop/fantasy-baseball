@@ -2,198 +2,198 @@
   "generated_at": "2026-03-26",
   "roto_standings": [
     {
-      "team": "Whacking Balls Deep",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
-    },
-    {
-      "team": "The Mascarpone Mafia",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
+      "team": "HitMeInDaFaceWitaTatisWhydoncha",
+      "hitting_pts": 56.0,
+      "pitching_pts": 38.5,
+      "total_pts": 94.5
     },
     {
       "team": "Good Love",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
-    },
-    {
-      "team": "i used to be good",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
-    },
-    {
-      "team": "This is a new low..... ",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
-    },
-    {
-      "team": "The Swan",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
-    },
-    {
-      "team": "Scrappy Ending",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
-    },
-    {
-      "team": "THE CORONADO KINGS",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
+      "hitting_pts": 55.5,
+      "pitching_pts": 38.5,
+      "total_pts": 94.0
     },
     {
       "team": "Nut Saks",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
+      "hitting_pts": 43.0,
+      "pitching_pts": 50.5,
+      "total_pts": 93.5
     },
     {
       "team": "ALBIEEEES to be Patricia Marie",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
+      "hitting_pts": 52.5,
+      "pitching_pts": 38.5,
+      "total_pts": 91.0
     },
     {
       "team": "Try the Veal",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
+      "hitting_pts": 44.0,
+      "pitching_pts": 38.5,
+      "total_pts": 82.5
     },
     {
-      "team": "HitMeInDaFaceWitaTatisWhydoncha",
-      "hitting_pts": 39.0,
-      "pitching_pts": 39.0,
-      "total_pts": 78.0
+      "team": "i used to be good",
+      "hitting_pts": 43.0,
+      "pitching_pts": 32.5,
+      "total_pts": 75.5
+    },
+    {
+      "team": "Whacking Balls Deep",
+      "hitting_pts": 29.0,
+      "pitching_pts": 38.5,
+      "total_pts": 67.5
+    },
+    {
+      "team": "The Mascarpone Mafia",
+      "hitting_pts": 29.0,
+      "pitching_pts": 38.5,
+      "total_pts": 67.5
+    },
+    {
+      "team": "This is a new low..... ",
+      "hitting_pts": 29.0,
+      "pitching_pts": 38.5,
+      "total_pts": 67.5
+    },
+    {
+      "team": "The Swan",
+      "hitting_pts": 29.0,
+      "pitching_pts": 38.5,
+      "total_pts": 67.5
+    },
+    {
+      "team": "Scrappy Ending",
+      "hitting_pts": 29.0,
+      "pitching_pts": 38.5,
+      "total_pts": 67.5
+    },
+    {
+      "team": "THE CORONADO KINGS",
+      "hitting_pts": 29.0,
+      "pitching_pts": 38.5,
+      "total_pts": 67.5
     }
   ],
   "luck_table": [
     {
-      "team": "Whacking Balls Deep",
-      "actual_wins": 0,
+      "team": "ALBIEEEES to be Patricia Marie",
+      "actual_wins": 76,
       "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
+      "actual_pct": 1.0,
+      "universal_wins": 703,
+      "universal_losses": 209,
+      "universal_pct": 0.771,
+      "luck": 0.229
+    },
+    {
+      "team": "THE CORONADO KINGS",
+      "actual_wins": 38,
+      "actual_losses": 76,
+      "actual_pct": 0.333,
+      "universal_wins": 57,
+      "universal_losses": 456,
+      "universal_pct": 0.111,
+      "luck": 0.222
+    },
+    {
+      "team": "i used to be good",
+      "actual_wins": 76,
+      "actual_losses": 38,
+      "actual_pct": 0.667,
+      "universal_wins": 570,
+      "universal_losses": 665,
+      "universal_pct": 0.462,
+      "luck": 0.205
+    },
+    {
+      "team": "Nut Saks",
+      "actual_wins": 114,
+      "actual_losses": 19,
+      "actual_pct": 0.857,
+      "universal_wins": 1007,
+      "universal_losses": 418,
+      "universal_pct": 0.707,
+      "luck": 0.15
+    },
+    {
+      "team": "HitMeInDaFaceWitaTatisWhydoncha",
+      "actual_wins": 76,
+      "actual_losses": 0,
+      "actual_pct": 1.0,
+      "universal_wins": 760,
+      "universal_losses": 133,
+      "universal_pct": 0.851,
+      "luck": 0.149
+    },
+    {
+      "team": "Whacking Balls Deep",
+      "actual_wins": 19,
+      "actual_losses": 114,
+      "actual_pct": 0.143,
+      "universal_wins": 57,
+      "universal_losses": 456,
+      "universal_pct": 0.111,
+      "luck": 0.032
+    },
+    {
+      "team": "Good Love",
+      "actual_wins": 57,
+      "actual_losses": 19,
+      "actual_pct": 0.75,
+      "universal_wins": 760,
+      "universal_losses": 152,
+      "universal_pct": 0.833,
+      "luck": -0.083
     },
     {
       "team": "The Mascarpone Mafia",
       "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
-    },
-    {
-      "team": "Good Love",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
-    },
-    {
-      "team": "i used to be good",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
+      "actual_losses": 76,
+      "actual_pct": 0.0,
+      "universal_wins": 57,
+      "universal_losses": 456,
+      "universal_pct": 0.111,
+      "luck": -0.111
     },
     {
       "team": "This is a new low..... ",
       "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
+      "actual_losses": 76,
+      "actual_pct": 0.0,
+      "universal_wins": 57,
+      "universal_losses": 456,
+      "universal_pct": 0.111,
+      "luck": -0.111
     },
     {
       "team": "The Swan",
       "actual_wins": 0,
       "actual_losses": 0,
       "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
+      "universal_wins": 57,
+      "universal_losses": 456,
+      "universal_pct": 0.111,
+      "luck": -0.111
     },
     {
       "team": "Scrappy Ending",
       "actual_wins": 0,
       "actual_losses": 0,
       "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
-    },
-    {
-      "team": "THE CORONADO KINGS",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
-    },
-    {
-      "team": "Nut Saks",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
-    },
-    {
-      "team": "ALBIEEEES to be Patricia Marie",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
+      "universal_wins": 57,
+      "universal_losses": 456,
+      "universal_pct": 0.111,
+      "luck": -0.111
     },
     {
       "team": "Try the Veal",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
-    },
-    {
-      "team": "HitMeInDaFaceWitaTatisWhydoncha",
-      "actual_wins": 0,
-      "actual_losses": 0,
-      "actual_pct": 0,
-      "universal_wins": 0,
-      "universal_losses": 0,
-      "universal_pct": 0,
-      "luck": 0
+      "actual_wins": 19,
+      "actual_losses": 57,
+      "actual_pct": 0.25,
+      "universal_wins": 418,
+      "universal_losses": 247,
+      "universal_pct": 0.629,
+      "luck": -0.379
     }
   ],
   "weekly_roto": [
@@ -201,76 +201,76 @@
       "week": 1,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -278,76 +278,76 @@
       "week": 2,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -355,76 +355,76 @@
       "week": 3,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -432,76 +432,76 @@
       "week": 4,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -509,76 +509,76 @@
       "week": 5,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -586,76 +586,76 @@
       "week": 6,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -663,76 +663,76 @@
       "week": 7,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -740,76 +740,76 @@
       "week": 8,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -817,76 +817,76 @@
       "week": 9,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -894,76 +894,76 @@
       "week": 10,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -971,76 +971,76 @@
       "week": 11,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1048,76 +1048,76 @@
       "week": 12,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1125,76 +1125,76 @@
       "week": 13,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1202,76 +1202,76 @@
       "week": 14,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1279,76 +1279,76 @@
       "week": 15,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1356,76 +1356,76 @@
       "week": 16,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1433,76 +1433,76 @@
       "week": 17,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1510,76 +1510,76 @@
       "week": 18,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     },
@@ -1587,76 +1587,76 @@
       "week": 19,
       "standings": [
         {
-          "team": "Whacking Balls Deep",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Mascarpone Mafia",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "HitMeInDaFaceWitaTatisWhydoncha",
+          "hitting_pts": 56.0,
+          "pitching_pts": 38.5,
+          "total_pts": 94.5
         },
         {
           "team": "Good Love",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "i used to be good",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "This is a new low..... ",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "The Swan",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "Scrappy Ending",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
-        },
-        {
-          "team": "THE CORONADO KINGS",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 55.5,
+          "pitching_pts": 38.5,
+          "total_pts": 94.0
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 43.0,
+          "pitching_pts": 50.5,
+          "total_pts": 93.5
         },
         {
           "team": "ALBIEEEES to be Patricia Marie",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 52.5,
+          "pitching_pts": 38.5,
+          "total_pts": 91.0
         },
         {
           "team": "Try the Veal",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "hitting_pts": 44.0,
+          "pitching_pts": 38.5,
+          "total_pts": 82.5
         },
         {
-          "team": "HitMeInDaFaceWitaTatisWhydoncha",
-          "hitting_pts": 39.0,
-          "pitching_pts": 39.0,
-          "total_pts": 78.0
+          "team": "i used to be good",
+          "hitting_pts": 43.0,
+          "pitching_pts": 32.5,
+          "total_pts": 75.5
+        },
+        {
+          "team": "Whacking Balls Deep",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Mascarpone Mafia",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "This is a new low..... ",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "The Swan",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "Scrappy Ending",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
+        },
+        {
+          "team": "THE CORONADO KINGS",
+          "hitting_pts": 29.0,
+          "pitching_pts": 38.5,
+          "total_pts": 67.5
         }
       ]
     }

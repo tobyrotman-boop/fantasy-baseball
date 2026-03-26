@@ -125,7 +125,7 @@ for week in range(1, 20):
         boxes = league.box_scores(week)
         
         # Skip empty weeks (season hasn't reached this week yet)
-               total_r = sum(
+        total_r = sum(
             box.home_stats.get('R', {}).get('value', 0) or 0
             for box in boxes
         )

@@ -171,40 +171,31 @@ for week in range(1, 20):
                 universal_wins[b]   += w_b
                 universal_losses[b] += w_a
 
-        # Rolling roto snapshot with half-point tie splitting
+      # Rolling roto snapshot with half-point tie splitting
         cumulative_ratios = {name: calc_ratios(cumulative_raw[name]) for name in team_names}
         
         hit_pts  = {name: 0.0 for name in team_names}
         pitch_pts = {name: 0.0 for name in team_names}
+        cat_pts   = {name: {} for name in team_names}
 
         for cat in HITTING_CATS:
             cat_points = rank_category(cumulative_ratios, cat)
             for name, pts in cat_points.items():
                 hit_pts[name] += pts
+                cat_pts[name][cat] = pts
 
         for cat in PITCHING_CATS:
             cat_points = rank_category(cumulative_ratios, cat)
             for name, pts in cat_points.items():
                 pitch_pts[name] += pts
+                cat_pts[name][cat] = pts
 
-        # Store per-category points too
-cat_pts = {name: {} for name in team_names}
-for cat in HITTING_CATS:
-    cat_points = rank_category(cumulative_ratios, cat)
-    for name, pts in cat_points.items():
-        cat_pts[name][cat] = pts
-
-for cat in PITCHING_CATS:
-    cat_points = rank_category(cumulative_ratios, cat)
-    for name, pts in cat_points.items():
-        cat_pts[name][cat] = pts
-
-roto_history.append({
-    'week': week,
-    'hit_pts':   hit_pts.copy(),
-    'pitch_pts': pitch_pts.copy(),
-    'cat_pts':   cat_pts.copy()
-})
+        roto_history.append({
+            'week': week,
+            'hit_pts':   hit_pts.copy(),
+            'pitch_pts': pitch_pts.copy(),
+            'cat_pts':   cat_pts.copy()
+        })
 
         print(f"  Week {week} done")
 

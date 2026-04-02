@@ -114,15 +114,20 @@ roto_history = []
 
 # ── Main loop ────────────────────────────────────────────────────────────────
 print("Pulling data for all 19 weeks...")
+prev_r = 0
 for week in range(1, 20):
     try:
         boxes = league.box_scores(week)
-        print(f"  Week {week} raw R check: {sum(box.home_stats.get('R', {}).get('value', 0) or 0 for box in boxes)}")
 
-# Skip weeks not yet played
-        if week > league.current_week:
-            print(f"  Week {week} not yet played, stopping")
+        # Skip weeks with no new data (ESPN returns cumulative totals, so unchanged = not yet played)
+        total_r = sum(
+            box.home_stats.get('R', {}).get('value', 0) or 0
+            for box in boxes
+        )
+        if week > 1 and total_r == prev_r:
+            print(f"  Week {week} no new data, stopping")
             break
+        prev_r = total_r
 
         # Accumulate raw stats
         week_raw = {}

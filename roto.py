@@ -161,6 +161,7 @@ for week in range(1, 20):
                 universal_wins[b]   += w_b
                 universal_losses[b] += w_a
 
+        print(f"League current week: {league.current_week}")
         # Rolling roto snapshot with half-point tie splitting
         cumulative_ratios = {name: calc_ratios(cumulative_raw[name]) for name in team_names}
 

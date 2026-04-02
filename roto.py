@@ -117,6 +117,7 @@ print("Pulling data for all 19 weeks...")
 for week in range(1, 20):
     try:
         boxes = league.box_scores(week)
+        print(f"  Week {week} raw R check: {sum(box.home_stats.get('R', {}).get('value', 0) or 0 for box in boxes)}")
 
         # Skip empty weeks (season hasn't reached this week yet)
         total_r = sum(

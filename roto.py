@@ -119,13 +119,9 @@ for week in range(1, 20):
         boxes = league.box_scores(week)
         print(f"  Week {week} raw R check: {sum(box.home_stats.get('R', {}).get('value', 0) or 0 for box in boxes)}")
 
-        # Skip empty weeks (season hasn't reached this week yet)
-        total_r = sum(
-            box.home_stats.get('R', {}).get('value', 0) or 0
-            for box in boxes
-        )
-        if total_r == 0:
-            print(f"  Week {week} empty, stopping")
+# Skip weeks not yet played
+        if week > league.current_week:
+            print(f"  Week {week} not yet played, stopping")
             break
 
         # Accumulate raw stats

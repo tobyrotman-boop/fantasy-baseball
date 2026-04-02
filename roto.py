@@ -62,23 +62,17 @@ def rank_category(teams_stats, cat):
     Rank all teams in a single category with half-point tie splitting.
     Returns dict of {team_name: points}
     """
-    # Sort: lower is better for ERA/WHIP, higher is better otherwise
     reverse = cat not in LOWER_IS_BETTER
     sorted_teams = sorted(teams_stats.keys(),
                           key=lambda n: teams_stats[n][cat],
                           reverse=reverse)
-    
     points = {}
     n = len(sorted_teams)
     i = 0
     while i < n:
-        # Find all teams tied at this position
         j = i
         while j < n and teams_stats[sorted_teams[j]][cat] == teams_stats[sorted_teams[i]][cat]:
             j += 1
-        # Ranks for tied teams: i+1 through j (1-indexed)
-        # Average them for half-point splits
-         # Convert rank to points: best rank (1) = n points, worst rank (n) = 1 point
         avg_rank = sum(range(i + 1, j + 1)) / (j - i)
         converted = (n + 1) - avg_rank
         for k in range(i, j):
@@ -111,9 +105,9 @@ cumulative_raw = {
     for name in team_names
 }
 
-actual_wins    = {name: 0 for name in team_names}
-actual_losses  = {name: 0 for name in team_names}
-universal_wins  = {name: 0 for name in team_names}
+actual_wins      = {name: 0 for name in team_names}
+actual_losses    = {name: 0 for name in team_names}
+universal_wins   = {name: 0 for name in team_names}
 universal_losses = {name: 0 for name in team_names}
 
 roto_history = []
@@ -124,7 +118,6 @@ for week in range(1, 20):
     try:
         boxes = league.box_scores(week)
 
-
         # Skip empty weeks (season hasn't reached this week yet)
         total_r = sum(
             box.home_stats.get('R', {}).get('value', 0) or 0
@@ -133,7 +126,7 @@ for week in range(1, 20):
         if total_r == 0:
             print(f"  Week {week} empty, stopping")
             break
-            
+
         # Accumulate raw stats
         week_raw = {}
         for box in boxes:
@@ -171,10 +164,10 @@ for week in range(1, 20):
                 universal_wins[b]   += w_b
                 universal_losses[b] += w_a
 
-      # Rolling roto snapshot with half-point tie splitting
+        # Rolling roto snapshot with half-point tie splitting
         cumulative_ratios = {name: calc_ratios(cumulative_raw[name]) for name in team_names}
-        
-        hit_pts  = {name: 0.0 for name in team_names}
+
+        hit_pts   = {name: 0.0 for name in team_names}
         pitch_pts = {name: 0.0 for name in team_names}
         cat_pts   = {name: {} for name in team_names}
 
@@ -191,7 +184,7 @@ for week in range(1, 20):
                 cat_pts[name][cat] = pts
 
         roto_history.append({
-            'week': week,
+            'week':      week,
             'hit_pts':   hit_pts.copy(),
             'pitch_pts': pitch_pts.copy(),
             'cat_pts':   cat_pts.copy()
@@ -224,7 +217,7 @@ print("-"*60)
 for name, h, p, t in roto_rows:
     print(f"{name:<30} {h:>9.1f} {p:>10.1f} {t:>8.1f}")
 
-# ── REPORT 2: Luck Table ──────────────────────────────────────────────────────
+# ── REPORT 2: Luck Table ─────────────────────────────────────────────────────
 print("\n" + "="*75)
 print("REPORT 2: LUCK TABLE (actual win% vs universal win%)")
 print("="*75)
@@ -245,7 +238,7 @@ luck_rows.sort(key=lambda x: x[7], reverse=True)
 for name, aw, al, ap, uw, ul, up, luck in luck_rows:
     print(f"{name:<30} {aw:>6} {al:>6} {ap:>7.3f} {uw:>7} {ul:>7} {up:>7.3f} {luck:>+7.3f}")
 
-# ── REPORT 3: Rolling Roto Standings by Week ──────────────────────────────────
+# ── REPORT 3: Rolling Roto Standings by Week ─────────────────────────────────
 print("\n" + "="*75)
 print("REPORT 3: ROLLING ROTO STANDINGS BY WEEK")
 print("="*75)
@@ -291,34 +284,31 @@ output = {
         for name, aw, al, ap, uw, ul, up, luck in luck_rows
     ],
     "weekly_roto": [
-    {
-        "week": snapshot['week'],
-        "standings": sorted(
-            [
-                {
-                    "team": name,
-                    "hitting_pts": round(snapshot['hit_pts'][name], 1),
-                    "pitching_pts": round(snapshot['pitch_pts'][name], 1),
-                    "total_pts": round(snapshot['hit_pts'][name] + snapshot['pitch_pts'][name], 1),
-                    "categories": {
-                        cat: round(snapshot['cat_pts'][name].get(cat, 0), 1)
-                        for cat in ALL_CATS
+        {
+            "week": snapshot['week'],
+            "standings": sorted(
+                [
+                    {
+                        "team": name,
+                        "hitting_pts": round(snapshot['hit_pts'][name], 1),
+                        "pitching_pts": round(snapshot['pitch_pts'][name], 1),
+                        "total_pts": round(snapshot['hit_pts'][name] + snapshot['pitch_pts'][name], 1),
+                        "categories": {
+                            cat: round(snapshot['cat_pts'][name].get(cat, 0), 1)
+                            for cat in ALL_CATS
+                        }
                     }
-                }
-                for name in team_names
-            ],
-            key=lambda x: x['total_pts'],
-            reverse=True
-        )
-    }
-    for snapshot in roto_history
-]
+                    for name in team_names
+                ],
+                key=lambda x: x['total_pts'],
+                reverse=True
+            )
+        }
+        for snapshot in roto_history
+    ]
+}
 
 with open("league_data.json", "w") as f:
     json.dump(output, f, indent=2)
 
 print("\nData written to league_data.json")
-
-
-
-

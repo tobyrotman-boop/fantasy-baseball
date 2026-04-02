@@ -187,11 +187,24 @@ for week in range(1, 20):
             for name, pts in cat_points.items():
                 pitch_pts[name] += pts
 
-        roto_history.append({
-            'week': week,
-            'hit_pts':   hit_pts.copy(),
-            'pitch_pts': pitch_pts.copy()
-        })
+        # Store per-category points too
+cat_pts = {name: {} for name in team_names}
+for cat in HITTING_CATS:
+    cat_points = rank_category(cumulative_ratios, cat)
+    for name, pts in cat_points.items():
+        cat_pts[name][cat] = pts
+
+for cat in PITCHING_CATS:
+    cat_points = rank_category(cumulative_ratios, cat)
+    for name, pts in cat_points.items():
+        cat_pts[name][cat] = pts
+
+roto_history.append({
+    'week': week,
+    'hit_pts':   hit_pts.copy(),
+    'pitch_pts': pitch_pts.copy(),
+    'cat_pts':   cat_pts.copy()
+})
 
         print(f"  Week {week} done")
 
@@ -287,25 +300,28 @@ output = {
         for name, aw, al, ap, uw, ul, up, luck in luck_rows
     ],
     "weekly_roto": [
-        {
-            "week": snapshot['week'],
-            "standings": sorted(
-                [
-                    {
-                        "team": name,
-                        "hitting_pts": round(snapshot['hit_pts'][name], 1),
-                        "pitching_pts": round(snapshot['pitch_pts'][name], 1),
-                        "total_pts": round(snapshot['hit_pts'][name] + snapshot['pitch_pts'][name], 1)
+    {
+        "week": snapshot['week'],
+        "standings": sorted(
+            [
+                {
+                    "team": name,
+                    "hitting_pts": round(snapshot['hit_pts'][name], 1),
+                    "pitching_pts": round(snapshot['pitch_pts'][name], 1),
+                    "total_pts": round(snapshot['hit_pts'][name] + snapshot['pitch_pts'][name], 1),
+                    "categories": {
+                        cat: round(snapshot['cat_pts'][name].get(cat, 0), 1)
+                        for cat in ALL_CATS
                     }
-                    for name in team_names
-                ],
-                key=lambda x: x['total_pts'],
-                reverse=True
-            )
-        }
-        for snapshot in roto_history
-    ]
-}
+                }
+                for name in team_names
+            ],
+            key=lambda x: x['total_pts'],
+            reverse=True
+        )
+    }
+    for snapshot in roto_history
+]
 
 with open("league_data.json", "w") as f:
     json.dump(output, f, indent=2)

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-04",
   "roto_standings": [
     {
       "team": "i used to be good",
@@ -9,191 +9,191 @@
     },
     {
       "team": "Scrappy Ending",
-      "hitting_pts": 52.0,
-      "pitching_pts": 53.0,
+      "hitting_pts": 53.0,
+      "pitching_pts": 52.0,
       "total_pts": 105.0
     },
     {
       "team": "Whacking Balls Deep",
-      "hitting_pts": 62.0,
-      "pitching_pts": 34.0,
-      "total_pts": 96.0
+      "hitting_pts": 61.5,
+      "pitching_pts": 36.5,
+      "total_pts": 98.0
     },
     {
       "team": "Giving Me Blubaughs",
-      "hitting_pts": 46.0,
+      "hitting_pts": 48.0,
       "pitching_pts": 49.0,
-      "total_pts": 95.0
+      "total_pts": 97.0
     },
     {
       "team": "Good Love",
-      "hitting_pts": 46.0,
+      "hitting_pts": 46.5,
       "pitching_pts": 37.0,
-      "total_pts": 83.0
+      "total_pts": 83.5
     },
     {
       "team": "Nut Saks",
-      "hitting_pts": 45.0,
+      "hitting_pts": 42.0,
       "pitching_pts": 37.5,
-      "total_pts": 82.5
-    },
-    {
-      "team": "THE PIRATES B( 0 )( 0 )BIES",
-      "hitting_pts": 44.0,
-      "pitching_pts": 26.0,
-      "total_pts": 70.0
+      "total_pts": 79.5
     },
     {
       "team": "ALBIEEEES to be Patricia Marie",
       "hitting_pts": 14.0,
-      "pitching_pts": 53.0,
-      "total_pts": 67.0
+      "pitching_pts": 55.5,
+      "total_pts": 69.5
+    },
+    {
+      "team": "THE PIRATES B( 0 )( 0 )BIES",
+      "hitting_pts": 46.0,
+      "pitching_pts": 22.5,
+      "total_pts": 68.5
     },
     {
       "team": "Ladyfingers and Hollidays ",
-      "hitting_pts": 34.0,
-      "pitching_pts": 28.5,
-      "total_pts": 62.5
-    },
-    {
-      "team": "Try the Veal",
-      "hitting_pts": 31.5,
-      "pitching_pts": 28.0,
-      "total_pts": 59.5
+      "hitting_pts": 31.0,
+      "pitching_pts": 27.5,
+      "total_pts": 58.5
     },
     {
       "team": "*Whole Team",
-      "hitting_pts": 22.0,
-      "pitching_pts": 35.5,
-      "total_pts": 57.5
+      "hitting_pts": 24.0,
+      "pitching_pts": 34.5,
+      "total_pts": 58.5
+    },
+    {
+      "team": "Try the Veal",
+      "hitting_pts": 30.0,
+      "pitching_pts": 28.5,
+      "total_pts": 58.5
     },
     {
       "team": "The Swan",
-      "hitting_pts": 24.5,
-      "pitching_pts": 26.5,
-      "total_pts": 51.0
+      "hitting_pts": 25.0,
+      "pitching_pts": 27.5,
+      "total_pts": 52.5
     }
   ],
   "luck_table": [
     {
-      "team": "ALBIEEEES to be Patricia Marie",
+      "team": "Nut Saks",
       "actual_wins": 88,
-      "actual_losses": 69,
-      "actual_pct": 0.561,
-      "universal_wins": 833,
-      "universal_losses": 907,
-      "universal_pct": 0.479,
-      "luck": 0.082
+      "actual_losses": 70,
+      "actual_pct": 0.557,
+      "universal_wins": 835,
+      "universal_losses": 895,
+      "universal_pct": 0.483,
+      "luck": 0.074
     },
     {
-      "team": "Nut Saks",
-      "actual_wins": 89,
-      "actual_losses": 68,
-      "actual_pct": 0.567,
-      "universal_wins": 843,
-      "universal_losses": 881,
-      "universal_pct": 0.489,
-      "luck": 0.078
+      "team": "ALBIEEEES to be Patricia Marie",
+      "actual_wins": 87,
+      "actual_losses": 70,
+      "actual_pct": 0.554,
+      "universal_wins": 845,
+      "universal_losses": 898,
+      "universal_pct": 0.485,
+      "luck": 0.069
     },
     {
       "team": "*Whole Team",
-      "actual_wins": 83,
-      "actual_losses": 74,
-      "actual_pct": 0.529,
-      "universal_wins": 815,
-      "universal_losses": 941,
-      "universal_pct": 0.464,
-      "luck": 0.065
+      "actual_wins": 84,
+      "actual_losses": 73,
+      "actual_pct": 0.535,
+      "universal_wins": 827,
+      "universal_losses": 926,
+      "universal_pct": 0.472,
+      "luck": 0.063
     },
     {
       "team": "Good Love",
-      "actual_wins": 86,
-      "actual_losses": 67,
-      "actual_pct": 0.562,
-      "universal_wins": 882,
-      "universal_losses": 859,
-      "universal_pct": 0.507,
+      "actual_wins": 85,
+      "actual_losses": 68,
+      "actual_pct": 0.556,
+      "universal_wins": 872,
+      "universal_losses": 869,
+      "universal_pct": 0.501,
       "luck": 0.055
     },
     {
       "team": "The Swan",
-      "actual_wins": 70,
-      "actual_losses": 85,
-      "actual_pct": 0.452,
-      "universal_wins": 697,
-      "universal_losses": 1023,
-      "universal_pct": 0.405,
-      "luck": 0.046
+      "actual_wins": 72,
+      "actual_losses": 84,
+      "actual_pct": 0.462,
+      "universal_wins": 709,
+      "universal_losses": 1014,
+      "universal_pct": 0.411,
+      "luck": 0.05
     },
     {
       "team": "Ladyfingers and Hollidays ",
       "actual_wins": 74,
       "actual_losses": 80,
       "actual_pct": 0.481,
-      "universal_wins": 827,
-      "universal_losses": 920,
-      "universal_pct": 0.473,
-      "luck": 0.007
+      "universal_wins": 813,
+      "universal_losses": 931,
+      "universal_pct": 0.466,
+      "luck": 0.014
     },
     {
       "team": "i used to be good",
       "actual_wins": 97,
       "actual_losses": 66,
       "actual_pct": 0.595,
-      "universal_wins": 1023,
-      "universal_losses": 712,
-      "universal_pct": 0.59,
-      "luck": 0.005
+      "universal_wins": 1022,
+      "universal_losses": 715,
+      "universal_pct": 0.588,
+      "luck": 0.007
     },
     {
       "team": "Try the Veal",
-      "actual_wins": 58,
-      "actual_losses": 97,
-      "actual_pct": 0.374,
-      "universal_wins": 691,
-      "universal_losses": 1061,
-      "universal_pct": 0.394,
-      "luck": -0.02
+      "actual_wins": 59,
+      "actual_losses": 96,
+      "actual_pct": 0.381,
+      "universal_wins": 693,
+      "universal_losses": 1058,
+      "universal_pct": 0.396,
+      "luck": -0.015
     },
     {
       "team": "Whacking Balls Deep",
-      "actual_wins": 76,
-      "actual_losses": 83,
-      "actual_pct": 0.478,
-      "universal_wins": 936,
-      "universal_losses": 801,
-      "universal_pct": 0.539,
-      "luck": -0.061
+      "actual_wins": 72,
+      "actual_losses": 85,
+      "actual_pct": 0.459,
+      "universal_wins": 920,
+      "universal_losses": 820,
+      "universal_pct": 0.529,
+      "luck": -0.07
     },
     {
       "team": "Giving Me Blubaughs",
-      "actual_wins": 80,
-      "actual_losses": 82,
-      "actual_pct": 0.494,
-      "universal_wins": 1013,
-      "universal_losses": 753,
-      "universal_pct": 0.574,
-      "luck": -0.08
-    },
-    {
-      "team": "THE PIRATES B( 0 )( 0 )BIES",
-      "actual_wins": 61,
-      "actual_losses": 95,
-      "actual_pct": 0.391,
-      "universal_wins": 834,
-      "universal_losses": 904,
-      "universal_pct": 0.48,
-      "luck": -0.089
+      "actual_wins": 82,
+      "actual_losses": 78,
+      "actual_pct": 0.512,
+      "universal_wins": 1029,
+      "universal_losses": 737,
+      "universal_pct": 0.583,
+      "luck": -0.07
     },
     {
       "team": "Scrappy Ending",
       "actual_wins": 81,
-      "actual_losses": 77,
-      "actual_pct": 0.513,
-      "universal_wins": 1051,
-      "universal_losses": 683,
-      "universal_pct": 0.606,
-      "luck": -0.093
+      "actual_losses": 76,
+      "actual_pct": 0.516,
+      "universal_wins": 1049,
+      "universal_losses": 689,
+      "universal_pct": 0.604,
+      "luck": -0.088
+    },
+    {
+      "team": "THE PIRATES B( 0 )( 0 )BIES",
+      "actual_wins": 60,
+      "actual_losses": 95,
+      "actual_pct": 0.387,
+      "universal_wins": 837,
+      "universal_losses": 899,
+      "universal_pct": 0.482,
+      "luck": -0.095
     }
   ],
   "weekly_roto": [
@@ -3407,19 +3407,19 @@
         },
         {
           "team": "Scrappy Ending",
-          "hitting_pts": 52.0,
-          "pitching_pts": 53.0,
+          "hitting_pts": 53.0,
+          "pitching_pts": 52.0,
           "total_pts": 105.0,
           "categories": {
             "HR": 12.0,
             "RBI": 7.0,
             "SB": 10.0,
-            "R": 8.0,
+            "R": 9.0,
             "OBP": 3.0,
             "SLG": 12.0,
             "QS": 9.0,
             "W": 9.0,
-            "K": 8.0,
+            "K": 7.0,
             "SV": 11.0,
             "ERA": 8.0,
             "WHIP": 8.0
@@ -3427,36 +3427,36 @@
         },
         {
           "team": "Whacking Balls Deep",
-          "hitting_pts": 62.0,
-          "pitching_pts": 34.0,
-          "total_pts": 96.0,
+          "hitting_pts": 61.5,
+          "pitching_pts": 36.5,
+          "total_pts": 98.0,
           "categories": {
             "HR": 11.0,
             "RBI": 11.0,
             "SB": 6.0,
-            "R": 11.0,
+            "R": 10.5,
             "OBP": 12.0,
             "SLG": 11.0,
-            "QS": 5.0,
+            "QS": 4.5,
             "W": 10.0,
             "K": 9.0,
             "SV": 2.0,
             "ERA": 5.0,
-            "WHIP": 3.0
+            "WHIP": 6.0
           }
         },
         {
           "team": "Giving Me Blubaughs",
-          "hitting_pts": 46.0,
+          "hitting_pts": 48.0,
           "pitching_pts": 49.0,
-          "total_pts": 95.0,
+          "total_pts": 97.0,
           "categories": {
             "HR": 9.0,
             "RBI": 9.0,
             "SB": 12.0,
-            "R": 5.0,
+            "R": 6.0,
             "OBP": 2.0,
-            "SLG": 9.0,
+            "SLG": 10.0,
             "QS": 11.0,
             "W": 11.0,
             "K": 11.0,
@@ -3467,14 +3467,14 @@
         },
         {
           "team": "Good Love",
-          "hitting_pts": 46.0,
+          "hitting_pts": 46.5,
           "pitching_pts": 37.0,
-          "total_pts": 83.0,
+          "total_pts": 83.5,
           "categories": {
             "HR": 10.0,
             "RBI": 10.0,
             "SB": 3.0,
-            "R": 10.0,
+            "R": 10.5,
             "OBP": 5.0,
             "SLG": 8.0,
             "QS": 3.0,
@@ -3487,15 +3487,15 @@
         },
         {
           "team": "Nut Saks",
-          "hitting_pts": 45.0,
+          "hitting_pts": 42.0,
           "pitching_pts": 37.5,
-          "total_pts": 82.5,
+          "total_pts": 79.5,
           "categories": {
             "HR": 6.0,
             "RBI": 12.0,
             "SB": 2.0,
-            "R": 9.0,
-            "OBP": 10.0,
+            "R": 8.0,
+            "OBP": 8.0,
             "SLG": 6.0,
             "QS": 6.0,
             "W": 7.5,
@@ -3506,30 +3506,10 @@
           }
         },
         {
-          "team": "THE PIRATES B( 0 )( 0 )BIES",
-          "hitting_pts": 44.0,
-          "pitching_pts": 26.0,
-          "total_pts": 70.0,
-          "categories": {
-            "HR": 7.0,
-            "RBI": 4.0,
-            "SB": 11.0,
-            "R": 7.0,
-            "OBP": 8.0,
-            "SLG": 7.0,
-            "QS": 2.0,
-            "W": 6.0,
-            "K": 5.0,
-            "SV": 7.0,
-            "ERA": 2.0,
-            "WHIP": 4.0
-          }
-        },
-        {
           "team": "ALBIEEEES to be Patricia Marie",
           "hitting_pts": 14.0,
-          "pitching_pts": 53.0,
-          "total_pts": 67.0,
+          "pitching_pts": 55.5,
+          "total_pts": 69.5,
           "categories": {
             "HR": 5.0,
             "RBI": 1.0,
@@ -3538,7 +3518,7 @@
             "OBP": 1.0,
             "SLG": 1.0,
             "QS": 10.0,
-            "W": 3.0,
+            "W": 5.5,
             "K": 10.0,
             "SV": 12.0,
             "ERA": 9.0,
@@ -3546,19 +3526,39 @@
           }
         },
         {
+          "team": "THE PIRATES B( 0 )( 0 )BIES",
+          "hitting_pts": 46.0,
+          "pitching_pts": 22.5,
+          "total_pts": 68.5,
+          "categories": {
+            "HR": 7.0,
+            "RBI": 4.0,
+            "SB": 11.0,
+            "R": 7.0,
+            "OBP": 10.0,
+            "SLG": 7.0,
+            "QS": 2.0,
+            "W": 3.5,
+            "K": 5.0,
+            "SV": 7.0,
+            "ERA": 2.0,
+            "WHIP": 3.0
+          }
+        },
+        {
           "team": "Ladyfingers and Hollidays ",
-          "hitting_pts": 34.0,
-          "pitching_pts": 28.5,
-          "total_pts": 62.5,
+          "hitting_pts": 31.0,
+          "pitching_pts": 27.5,
+          "total_pts": 58.5,
           "categories": {
             "HR": 4.0,
             "RBI": 8.0,
             "SB": 7.0,
-            "R": 6.0,
-            "OBP": 6.0,
+            "R": 5.0,
+            "OBP": 4.0,
             "SLG": 3.0,
             "QS": 7.0,
-            "W": 4.5,
+            "W": 3.5,
             "K": 6.0,
             "SV": 6.0,
             "ERA": 4.0,
@@ -3566,59 +3566,59 @@
           }
         },
         {
-          "team": "Try the Veal",
-          "hitting_pts": 31.5,
-          "pitching_pts": 28.0,
-          "total_pts": 59.5,
-          "categories": {
-            "HR": 2.5,
-            "RBI": 2.0,
-            "SB": 4.0,
-            "R": 2.0,
-            "OBP": 11.0,
-            "SLG": 10.0,
-            "QS": 1.0,
-            "W": 1.0,
-            "K": 1.0,
-            "SV": 9.0,
-            "ERA": 6.0,
-            "WHIP": 10.0
-          }
-        },
-        {
           "team": "*Whole Team",
-          "hitting_pts": 22.0,
-          "pitching_pts": 35.5,
-          "total_pts": 57.5,
+          "hitting_pts": 24.0,
+          "pitching_pts": 34.5,
+          "total_pts": 58.5,
           "categories": {
             "HR": 1.0,
             "RBI": 3.0,
             "SB": 9.0,
             "R": 3.0,
-            "OBP": 4.0,
+            "OBP": 6.0,
             "SLG": 2.0,
-            "QS": 4.0,
+            "QS": 4.5,
             "W": 7.5,
-            "K": 7.0,
-            "SV": 10.0,
+            "K": 8.0,
+            "SV": 9.5,
             "ERA": 1.0,
-            "WHIP": 6.0
+            "WHIP": 4.0
+          }
+        },
+        {
+          "team": "Try the Veal",
+          "hitting_pts": 30.0,
+          "pitching_pts": 28.5,
+          "total_pts": 58.5,
+          "categories": {
+            "HR": 2.0,
+            "RBI": 2.0,
+            "SB": 4.0,
+            "R": 2.0,
+            "OBP": 11.0,
+            "SLG": 9.0,
+            "QS": 1.0,
+            "W": 1.0,
+            "K": 1.0,
+            "SV": 9.5,
+            "ERA": 6.0,
+            "WHIP": 10.0
           }
         },
         {
           "team": "The Swan",
-          "hitting_pts": 24.5,
-          "pitching_pts": 26.5,
-          "total_pts": 51.0,
+          "hitting_pts": 25.0,
+          "pitching_pts": 27.5,
+          "total_pts": 52.5,
           "categories": {
-            "HR": 2.5,
+            "HR": 3.0,
             "RBI": 6.0,
             "SB": 1.0,
             "R": 4.0,
             "OBP": 7.0,
             "SLG": 4.0,
             "QS": 8.0,
-            "W": 4.5,
+            "W": 5.5,
             "K": 4.0,
             "SV": 5.0,
             "ERA": 3.0,

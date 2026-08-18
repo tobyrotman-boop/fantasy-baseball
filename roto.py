@@ -121,8 +121,6 @@ for week in range(1, 20):
         total_r_home = sum(box.home_stats.get('R', {}).get('value', 0) or 0 for box in boxes)
         total_r_away = sum(box.away_stats.get('R', {}).get('value', 0) or 0 for box in boxes)
         print(f"  Week {week} R: home={total_r_home} away={total_r_away} prev={prev_r}")
-
-Run it and paste weeks 16-19 output. I need to s
         print(f"  Week {week} R: home={sum(box.home_stats.get('R', {}).get('value',
 
         # Skip weeks with no new data (ESPN returns cumulative totals, so unchanged = not yet played)

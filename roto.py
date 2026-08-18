@@ -129,7 +129,7 @@ for week in range(1, 20):
             (box.away_stats.get('R', {}).get('value', 0) or 0)
             for box in boxes
         )
-        if week > 1 and total_r < prev_r:
+        if week > 1 and total_r == prev_r:
             print(f"  Week {week} no new data, stopping")
             break
         prev_r = total_r

@@ -199,8 +199,8 @@ for week in range(1, 20):
 
     except Exception as e:
         import traceback
-        print(f"  Week {week} failed: {e}")
         traceback.print_exc()
+        break
 
 # ── REPORT 1: Roto Standings ─────────────────────────────────────────────────
 print("\n" + "="*75)

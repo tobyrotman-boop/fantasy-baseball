@@ -118,6 +118,7 @@ prev_r = 0
 for week in range(1, 20):
     try:
         boxes = league.box_scores(week)
+        print(f"  Week {week} R: home={sum(box.home_stats.get('R', {}).get('value',
 
         # Skip weeks with no new data (ESPN returns cumulative totals, so unchanged = not yet played)
         total_r = sum(

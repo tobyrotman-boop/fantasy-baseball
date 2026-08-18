@@ -12,6 +12,20 @@ SWID = os.environ.get("SWID")
 
 league = League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
 
+# ── PASTE DIAGNOSTIC BLOCK HERE ──────────────────────────────────────────────
+print(f"Current Season Week in API: {league.current_week}")
+
+for test_week in range(16, 22):
+    try:
+        boxes = league.box_scores(test_week)
+        print(f"Week {test_week}: returned {len(boxes)} box scores")
+        if boxes:
+            sample_stats = sum(box.home_stats.get('R', {}).get('value', 0) or 0 for box in boxes)
+            print(f"  -> Sample Home Runs total: {sample_stats}")
+    except Exception as e:
+        print(f"Week {test_week} CRASHED with error: {e}")
+print("="*50)
+# ─────────────────────────────────────────────────────────────────────────────
 
 HITTING_CATS  = ['HR', 'RBI', 'SB', 'R', 'OBP', 'SLG']
 PITCHING_CATS = ['QS', 'W', 'K', 'SV', 'ERA', 'WHIP']

@@ -138,7 +138,7 @@ for week in range(1, 20):
 
         # Skip weeks with no new data (ESPN returns cumulative totals, so unchanged = not yet played)
         total_r = sum(
-            (box.home_stats.get('R', {}).get('value', 0) or 0 +
+            (box.home_stats.get('R', {}).get('value', 0) or 0) +
             (box.away_stats.get('R', {}).get('value', 0) or 0)
             for box in boxes
         )
